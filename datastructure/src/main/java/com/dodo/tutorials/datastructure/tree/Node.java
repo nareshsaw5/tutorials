@@ -1,22 +1,22 @@
 package com.dodo.tutorials.datastructure.tree;
 
-public class Node<T> {
+public class Node {
 
-    private T data;
+    private Integer data;
     private Node left;
     private Node right;
 
-    public Node(T data) {
+    public Node(Integer data) {
         this.data = data;
         this.left = null;
         this.right = null;
     }
 
-    public T getData() {
+    public Integer getData() {
         return data;
     }
 
-    public void setData(T data) {
+    public void setData(Integer data) {
         this.data = data;
     }
 
@@ -36,18 +36,4 @@ public class Node<T> {
         this.right = right;
     }
 
-    @Override public boolean equals(Object o) {
-        if (this == o)
-            return true;
-        if (o == null || getClass() != o.getClass())
-            return false;
-
-        Node<?> node = (Node<?>) o;
-
-        return data != null ? data.equals(node.data) : node.data == null;
-    }
-
-    @Override public int hashCode() {
-        return data != null ? data.hashCode() : 0;
-    }
 }
