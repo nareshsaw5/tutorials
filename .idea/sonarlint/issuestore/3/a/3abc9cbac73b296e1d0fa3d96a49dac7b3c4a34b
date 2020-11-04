@@ -1,0 +1,5 @@
+
+Vsquid:S1854$"8Remove this useless assignment to local variable "curr".(áµÂñ8ÒÑ ê×.
+dsquid:S11268"AReplace this if-then-else statement by a single return statement.(´úœ„úÿÿÿÿ8¤¢†ê×.
+[squid:S1854"8Remove this useless assignment to local variable "next".(ŒŠÝºüÿÿÿÿ8Ï‘Íé×.
+Lsquid:S1481")Remove this unused "next" local variable.(ŒŠÝºüÿÿÿÿ8¸¸Ôé×.

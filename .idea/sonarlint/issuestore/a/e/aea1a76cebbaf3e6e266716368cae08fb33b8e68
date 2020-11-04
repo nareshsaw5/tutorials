@@ -1,0 +1,11 @@
+
+V
+squid:S1068"9Replace this use of System.out or System.err by a logger.(ÕúîÑ8İÇà›Ø.
+\
+squid:S106–"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ8ì÷ÑÂØ.
+Esquid:S1481˜"&Remove this unused "b" local variable.(‹é¥ƒ8ÏïÂØ.
+[
+squid:S106."9Replace this use of System.out or System.err by a logger.(¥³ğ¾ÿÿÿÿÿ8Ş¾˜Ø.
+¥squid:S1186…"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Âõ„úÿÿÿÿ8‰ô»ÁØ.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Å¸Ş8Û‘ÅØ.

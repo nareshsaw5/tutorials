@@ -1,0 +1,12 @@
+
+;squid:S2119 "Save and re-use this "Random".(¼İÅf8Ç˜°¹Ò.
+dsquid:S2142;"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8åù»¹Ò.
+Fsquid:S1148&"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8„‡®¹Ò.
+[
+squid:S106""9Replace this use of System.out or System.err by a logger.(Õ°üÿÿÿÿ8„´¹Ò.
+[
+squid:S1069"9Replace this use of System.out or System.err by a logger.(‡ÁÔüÿÿÿÿ8Ô·¼¹Ò.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ô¯’½ÿÿÿÿÿ8ØÒÄ¹Ò.
+Fsquid:S1148<"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8åù»¹Ò.
+dsquid:S2142%"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8„‡®¹Ò.

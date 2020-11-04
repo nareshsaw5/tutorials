@@ -1,0 +1,11 @@
+/Users/nsaw/workspace/tutorials/hibernate-learning/src/main/java/dodo/learning/dto/mapping/Product.java
+/Users/nsaw/workspace/tutorials/hibernate-learning/src/main/java/dodo/learning/dto/mapping/Order.java
+/Users/nsaw/workspace/tutorials/hibernate-learning/src/main/java/dodo/util/HibernateUtil.java
+/Users/nsaw/workspace/tutorials/hibernate-learning/src/main/java/dodo/entity/school/Student.java
+/Users/nsaw/workspace/tutorials/hibernate-learning/src/main/java/dodo/learning/dto/mapping/Part.java
+/Users/nsaw/workspace/tutorials/hibernate-learning/src/main/java/dodo/learning/dto/Project.java
+/Users/nsaw/workspace/tutorials/hibernate-learning/src/main/java/dodo/learning/dao/EmployeeDao.java
+/Users/nsaw/workspace/tutorials/hibernate-learning/src/main/java/dodo/learning/dto/DepartmentTypeEnum.java
+/Users/nsaw/workspace/tutorials/hibernate-learning/src/main/java/dodo/learning/dto/Department.java
+/Users/nsaw/workspace/tutorials/hibernate-learning/src/main/java/dodo/learning/dto/Employee.java
+/Users/nsaw/workspace/tutorials/hibernate-learning/src/main/java/dodo/learning/dto/Region.java

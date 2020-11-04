@@ -1,0 +1,14 @@
+
+]squid:S2142)"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+O
+squid:S106<"9Replace this use of System.out or System.err by a logger.(®×È
+?squid:S1148*"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148@"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Zsquid:UselessImportCheck"1Remove this unused import 'java.util.ArrayDeque'.(†®ŞÖúÿÿÿÿ
+]squid:S2142?"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+dsquid:UselessImportCheck";Remove this unused import 'java.util.concurrent.Executors'.(äåÒÛÿÿÿÿÿ
+4squid:S2119#"Save and re-use this "Random".(¼İÅf
+O
+squid:S106%"9Replace this use of System.out or System.err by a logger.(ÆİèÖ
+jsquid:UselessImportCheck"ARemove this unused import 'java.util.concurrent.ExecutorService'.(æ÷–£ùÿÿÿÿ
+|squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥¯êûÿÿÿÿ8âòğíØ.

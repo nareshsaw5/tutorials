@@ -1,0 +1,9 @@
+
+\
+squid:S106¬"9Replace this use of System.out or System.err by a logger.(šÍÊíùÿÿÿÿ8”þÍË×.
+Msquid:S1481š"/Remove this unused "isRightBst" local variable.(åôƒd8ªš˜Ê×.
+N
+squid:S106c"9Replace this use of System.out or System.err by a logger.(Üûãk
+>squid:S2326"T is not used in the class.(Ø³÷öüÿÿÿÿ8¿Òµñ×.
+\squid:S1854š">Remove this useless assignment to local variable "isRightBst".(åôƒd8ªš˜Ê×.
+jsquid:S1764œ"KCorrect one of the identical sub-expressions on both sides of operator "&&"(ˆÒÕŒ8ªš˜Ê×.

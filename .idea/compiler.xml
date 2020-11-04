@@ -6,7 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="aspect-weaver-sample" />
+        <module name="concurrency" />
+        <module name="core-java" />
         <module name="datastructure" />
+        <module name="dto" />
+        <module name="functional" />
+        <module name="hello-world-docker" />
+        <module name="hibernate-learning" />
+        <module name="jackson" />
+        <module name="kafka-learning" />
+        <module name="kafka_stream" />
+        <module name="mqconsumer" />
+        <module name="search_sort" />
+        <module name="spring-boot-servlet-filter-example" />
       </profile>
     </annotationProcessing>
   </component>

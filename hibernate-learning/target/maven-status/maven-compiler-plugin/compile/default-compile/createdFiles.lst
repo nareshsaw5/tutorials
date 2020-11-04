@@ -1,0 +1,11 @@
+dodo/learning/dto/Region.class
+dodo/learning/dto/Department.class
+dodo/learning/dto/DepartmentTypeEnum.class
+dodo/learning/dto/mapping/Order.class
+dodo/learning/dao/EmployeeDao.class
+dodo/entity/school/Student.class
+dodo/learning/dto/mapping/Part.class
+dodo/learning/dto/Project.class
+dodo/util/HibernateUtil.class
+dodo/learning/dto/Employee.class
+dodo/learning/dto/mapping/Product.class

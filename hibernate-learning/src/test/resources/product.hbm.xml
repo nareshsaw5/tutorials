@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<hibernate-mapping package="hibernate">
+
+	<class name="dodo.learning.dto.mapping.Product" table="product">
+		<id name="id">
+			<generator class="seqhilo">
+				<param name="max_lo">1000</param>
+			</generator>
+		</id>
+
+
+		<set name="orders" table="product_orders" cascade="all">
+			<key column="order_id"></key>
+			<many-to-many class="Product" column="product_id"></many-to-many>
+		</set>
+
+
+	</class>
+
+</hibernate-mapping>

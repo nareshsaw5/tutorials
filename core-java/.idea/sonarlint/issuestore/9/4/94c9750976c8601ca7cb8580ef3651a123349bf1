@@ -1,0 +1,13 @@
+
+Esquid:S1068"'Remove this unused "sum" private field.(Âô£ 8ñ®¡²Ò.
+|squid:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8’éÂ¯Ò.
+jsquid:S00112#"FDefine and throw a dedicated exception instead of using a generic one.(İö¯“şÿÿÿÿ8×ò¡²Ò.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(æÊÛ8’éÂ¯Ò.
+psquid:S1450"RRemove the "sum" field and declare it as a local variable in the relevant methods.(Âô£ 8ˆšœ²Ò.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ûÆ¯ùÿÿÿÿ8ÉÄÃ¯Ò.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ôÒä¾8’éÂ¯Ò.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(“à€³şÿÿÿÿ8’éÂ¯Ò.

@@ -1,0 +1,6 @@
+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(®σΰύÿÿÿÿ
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(σ­ς£
+osquid:UselessImportCheck"FRemove this unused import 'java.util.concurrent.atomic.AtomicInteger'.(Ώκδψÿÿÿÿ
+msquid:UselessImportCheck"IRemove this unused import 'sun.util.locale.provider.TimeZoneNameUtility'.(σ­ς£

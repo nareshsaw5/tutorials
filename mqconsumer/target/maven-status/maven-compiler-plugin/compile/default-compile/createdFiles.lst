@@ -1,0 +1,4 @@
+com/example/demo/consumer/mq/RabbitMqMessageListener.class
+com/example/demo/consumer/DemoConsumerApplication.class
+com/example/demo/consumer/mq/RabbitMqConfiguration.class
+com/example/demo/consumer/mq/MyQueueBuilder.class

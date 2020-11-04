@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="NSAW-M-R0YR" name="audit.AspectDiffTest" tests="1" failures="0" timestamp="2 Sep 2019 12:42:03 GMT" time="0.024" errors="0">
+  <testcase name="test" time="0.013" classname="audit.AspectDiffTest"/>
+</testsuite>

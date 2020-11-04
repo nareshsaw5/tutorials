@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="565" started-at="2020-04-19T13:24:10Z" finished-at="2020-04-19T13:24:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="565" started-at="2020-04-19T13:24:10Z" finished-at="2020-04-19T13:24:10Z">
+      <class name="dodo.learning.jackson.SerializationTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:dodo.learning.jackson.SerializationTest@675d3402]" name="beforeTest" is-config="true" duration-ms="249" started-at="2020-04-19T13:24:10Z" finished-at="2020-04-19T13:24:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testDeserialization()[pri:0, instance:dodo.learning.jackson.SerializationTest@675d3402]" name="testDeserialization" duration-ms="250" started-at="2020-04-19T13:24:10Z" finished-at="2020-04-19T13:24:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeserialization -->
+        <test-method status="PASS" signature="testSerialization()[pri:0, instance:dodo.learning.jackson.SerializationTest@675d3402]" name="testSerialization" duration-ms="27" started-at="2020-04-19T13:24:10Z" finished-at="2020-04-19T13:24:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSerialization -->
+      </class> <!-- dodo.learning.jackson.SerializationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

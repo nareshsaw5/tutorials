@@ -11,6 +11,19 @@
 
     <modules>
         <module>datastructure</module>
+        <module>search_sort</module>
+        <module>kafka-learning</module>
+        <module>kafka_stream</module>
+        <module>mqconsumer</module>
+        <module>aspect-weaver-sample</module>
+        <module>core-java</module>
+        <module>dto</module>
+        <module>hello-world-docker</module>
+        <module>hibernate-learning</module>
+        <module>jackson</module>
+        <module>spring-boot-servlet-filter-example</module>
+        <module>concurrency</module>
+        <module>functional</module>
     </modules>
 
 

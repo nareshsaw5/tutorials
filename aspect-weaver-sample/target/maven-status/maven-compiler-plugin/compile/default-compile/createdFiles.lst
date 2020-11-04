@@ -1,0 +1,4 @@
+audit/Test.class
+audit/SecuredMethodAspect.class
+audit/SecuredMethod.class
+audit/Secured.class

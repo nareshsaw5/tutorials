@@ -1,0 +1,10 @@
+<!-- ******************************************************************* Copyright (c) 2013 Cisco Systems, Inc. All rights
+    reserved. ******************************************************************* -->
+<aspectj>
+    <aspects>
+        <aspect name="audit.SecuredMethodAspect"/>
+        <weaver options="-verbose -showWeaveInfo">
+            <include within="audit.*"/>
+        </weaver>
+    </aspects>
+</aspectj>

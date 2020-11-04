@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20039" started-at="2020-08-28T15:14:24Z" finished-at="2020-08-28T15:14:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20039" started-at="2020-08-28T15:14:24Z" finished-at="2020-08-28T15:14:44Z">
+      <class name="dodo.learning.thread.RestraurantTest">
+        <test-method status="PASS" signature="testTypicalRestraurant()[pri:0, instance:dodo.learning.thread.RestraurantTest@482f8f11]" name="testTypicalRestraurant" duration-ms="20014" started-at="2020-08-28T15:14:24Z" finished-at="2020-08-28T15:14:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTypicalRestraurant -->
+      </class> <!-- dodo.learning.thread.RestraurantTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

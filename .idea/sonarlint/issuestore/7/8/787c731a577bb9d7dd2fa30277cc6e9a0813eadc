@@ -1,0 +1,7 @@
+
+nsquid:CommentedOutCodeLine$"<This block of commented-out lines of code should be removed.(Éâ¦¥ÿÿÿÿÿ8½óÒ¼Ø.
+msquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íýØ8³Ç¯œØ.
+msquid:S00100-"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï³«ñ8 ‡ƒÅØ.
+nsquid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(Éâ¦¥ÿÿÿÿÿ8’ýßÄØ.
+nsquid:CommentedOutCodeLine0"<This block of commented-out lines of code should be removed.(Éâ¦¥ÿÿÿÿÿ8óÇ‚ÅØ.
+rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(žþ¢³ûÿÿÿÿ8¾¢ü™Ø.

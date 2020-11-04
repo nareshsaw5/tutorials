@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+
+	<class name="dodo.learning.dto.mapping.Order" table="orders">
+
+		<id name="id">
+			<generator class="seqhilo">
+				<param name="max_lo">1000</param>
+			</generator>
+		</id>
+		<!-- 
+		<set name="products" table="product_orders" cascade="all">
+			<key column="product_id"></key>
+			<many-to-many class="Order" column="order_id">
+			</many-to-many>
+		</set>
+		 -->
+	</class>
+
+</hibernate-mapping>
