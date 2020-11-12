@@ -1,20 +1,22 @@
 
-Osquid:S1481"1Remove this unused "itemsGroupBy" local variable.(”¶‚Å8¹Ä´³Û.
-vsquid:S1602/"SRemove useless curly braces around statement and then remove useless return keyword(“ÂÈÛúÿÿÿÿ8Ùô˜´Û.
-Rsquid:S1611"/Remove the parentheses around the "x" parameter(¢»ƒşÿÿÿÿ8ï­²³Û.
+Jsquid:S1612 ",Replace this lambda with a method reference.(•… ç8ùşí³Û.
+}squid:S1210†"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(á†ëÓıÿÿÿÿ8ùõÀÛ.
+vsquid:S16020"SRemove useless curly braces around statement and then remove useless return keyword(“ÂÈÛúÿÿÿÿ8Ùô˜´Û.
+Osquid:S1481"1Remove this unused "itemsGroupBy" local variable.(”¶‚Å8¹Ä´³Û.
+|squid:S1210i"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(á†ëÓıÿÿÿÿ8÷¯ãÀÛ.
+hsquid:S1192"JDefine a constant instead of duplicating this literal "Developer" 3 times.(–ûÃÊ8Úêı³Û.
+fsquid:S1192"HDefine a constant instead of duplicating this literal "Manager" 5 times.(Ä‰Â§8Ğ½ú³Û.
 [
-squid:S106"9Replace this use of System.out or System.err by a logger.(–å‰îùÿÿÿÿ8 Ã¦²Û.
+squid:S106"9Replace this use of System.out or System.err by a logger.(–å‰îùÿÿÿÿ8 Ã¦²Û.
+Rsquid:S1611"/Remove the parentheses around the "x" parameter(¢»ƒşÿÿÿÿ8ï­²³Û.
+\squid:UselessImportCheck"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8ò¯ÀÛ.
+Ysquid:S16110"6Remove the parentheses around the "employee" parameter(“ÂÈÛúÿÿÿÿ8ı‰†´Û.
+Jsquid:S1602",Remove useless curly braces around statement(²ÒØ8 Ã¦²Û.
 V
-squid:S106!"9Replace this use of System.out or System.err by a logger.(Ş¯«…8ÿåğ³Û.
-hsquid:S1192"JDefine a constant instead of duplicating this literal "Developer" 3 times.(–ûÃÊ8Úêı³Û.
-V
-squid:S106""9Replace this use of System.out or System.err by a logger.(¨³Ë8è‰´Û.
-fsquid:S1192"HDefine a constant instead of duplicating this literal "Manager" 5 times.(Ä‰Â§8Ğ½ú³Û.
+squid:S106#"9Replace this use of System.out or System.err by a logger.(¨³Ë8è‰´Û.
 [
-squid:S106"9Replace this use of System.out or System.err by a logger.(äı³ÿûÿÿÿÿ8Ì€·³Û.
+squid:S106"9Replace this use of System.out or System.err by a logger.(äı³ÿûÿÿÿÿ8Ì€·³Û.
 V
-squid:S1063"9Replace this use of System.out or System.err by a logger.(©¸µµ8—ˆ´Û.
-Jsquid:S1612",Replace this lambda with a method reference.(•… ç8ùşí³Û.
-Ysquid:S1611/"6Remove the parentheses around the "employee" parameter(“ÂÈÛúÿÿÿÿ8ı‰†´Û.
-Jsquid:S1602",Remove useless curly braces around statement(²ÒØ8 Ã¦²Û.
-^squid:S1854"@Remove this useless assignment to local variable "itemsGroupBy".(”¶‚Å8¹Ä´³Û.
+squid:S106""9Replace this use of System.out or System.err by a logger.(Ş¯«…8ÿåğ³Û.
+V
+squid:S1064"9Replace this use of System.out or System.err by a logger.(©¸µµ8—ˆ´Û.

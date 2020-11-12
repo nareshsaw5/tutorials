@@ -1,5 +1,5 @@
 
-Osquid:S1612",Replace this lambda with a method reference.(¥Èšüÿÿÿÿ8«×„òÚ.
-Osquid:S1602",Remove useless curly braces around statement(¥Èšüÿÿÿÿ8â¸€òÚ.
 [
 squid:S106"9Replace this use of System.out or System.err by a logger.(®óàıÿÿÿÿ8ÅÏ…òÚ.
+Osquid:S1602",Remove useless curly braces around statement(¥Èšüÿÿÿÿ8â¸€òÚ.
+Osquid:S1612",Replace this lambda with a method reference.(¥Èšüÿÿÿÿ8«×„òÚ.

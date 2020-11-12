@@ -1,0 +1,10 @@
+
+Isquid:S3958"2Refactor the code so this stream pipeline is used.(ÇÎ»±
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(¢¨Ä
+T
+squid:S106$"9Replace this use of System.out or System.err by a logger.(Æã•ûÿÿÿÿ
+Nsquid:S1135'"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+Csquid:S1481"'Remove this unused "of" local variable.(¬Ê¡“úÿÿÿÿ
+Csquid:S1481",Remove this unused "flatMap" local variable.(ÇÎ»±
+?squid:S1148("#Use a logger to log this exception.(Âşÿâûÿÿÿÿ

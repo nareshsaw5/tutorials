@@ -1,0 +1,18 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(½Ø×Ñ8ñÂ’ÝÛ.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ê¦×¢ýÿÿÿÿ8Û®‘ÝÛ.
+psquid:S00117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘öé¦8å®¡ÝÛ.
+[squid:UselessImportCheck"1Remove this unused import 'java.util.LinkedList'.(»Äð18ôÊùÜÛ.
+V
+squid:S106,"9Replace this use of System.out or System.err by a logger.(»Ø½Ì8êÜ°ÝÛ.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(½Ø×Ñ8Äæ¤ÝÛ.
+V
+squid:S106$"9Replace this use of System.out or System.err by a logger.(¶Ò»¨8¼‡¤ÝÛ.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÜÒ½–ýÿÿÿÿ8°¾…ÝÛ.
+osquid:S1192"QDefine a constant instead of duplicating this literal "++++++++++++++++" 3 times.(½Ø×Ñ8Š‘±ÝÛ.
+V
+squid:S106%"9Replace this use of System.out or System.err by a logger.(½Ø×Ñ8Š‘±ÝÛ.

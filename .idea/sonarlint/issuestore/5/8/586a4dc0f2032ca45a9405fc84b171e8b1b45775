@@ -1,0 +1,21 @@
+
+V
+squid:S106)"9Replace this use of System.out or System.err by a logger.(¶³¬Î8Æ£ÂÛ.
+V
+squid:S1062"9Replace this use of System.out or System.err by a logger.(äŞË€8£¤¼ÁÛ.
+V
+squid:S106*"9Replace this use of System.out or System.err by a logger.(äŞË€8Æ­“ÁÛ.
+[
+squid:S1061"9Replace this use of System.out or System.err by a logger.(Æô«Õøÿÿÿÿ8£¤¼ÁÛ.
+msquid:S1192"JDefine a constant instead of duplicating this literal "Developer" 4 times.(ƒµèêıÿÿÿÿ8½Ïú¿Û.
+Osquid:S1612",Replace this lambda with a method reference.(ƒ›ñûÿÿÿÿ8ïó‰ÀÛ.
+rsquid:S1192"TDefine a constant instead of duplicating this literal "+++++++++++++++++++" 4 times.(äŞË€8Æ­“ÁÛ.
+[
+squid:S106$"9Replace this use of System.out or System.err by a logger.(’Àêûÿÿÿÿ8Ñ¢íÀÛ.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŠÌËüÿÿÿÿ8õôŒÀÛ.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(äŞË€8¤ÊÀÛ.
+csquid:UselessImportCheck"8Remove this unused import 'java.util.function.Function'.(»³Í8¸ÉğÀÛ.
+V
+squid:S106%"9Replace this use of System.out or System.err by a logger.(äŞË€8³¤ñÀÛ.
