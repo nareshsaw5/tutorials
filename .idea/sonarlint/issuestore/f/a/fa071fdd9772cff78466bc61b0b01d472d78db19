@@ -1,0 +1,13 @@
+
+bsquid:S2095"KUse try-with-resources or close this "KafkaProducer" in a "finally" clause.(¶¢ê
+gsquid:CommentedOutCodeLine0"<This block of commented-out lines of code should be removed.(¡À¸ˆøÿÿÿÿ
+T
+squid:S106'"9Replace this use of System.out or System.err by a logger.(›ÄÙ¸şÿÿÿÿ
+[squid:S2259/"?A "NullPointerException" could be thrown; "e" is nullable here.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148/"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Dsquid:S1604#"(Make this anonymous inner class a lambda(şüœ€ÿÿÿÿÿ
+Gsquid:S1481"+Remove this unused "logger" local variable.( Ñ‹şÿÿÿÿ
+psquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶¢ê
+Psquid:S1854"9Remove this useless assignment to local variable "topic".(¸ûØ›
+Vsquid:S1854":Remove this useless assignment to local variable "logger".( Ñ‹şÿÿÿÿ
+Asquid:S1481"*Remove this unused "topic" local variable.(¸ûØ›

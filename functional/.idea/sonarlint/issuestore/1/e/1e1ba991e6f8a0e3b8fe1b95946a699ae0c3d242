@@ -1,0 +1,22 @@
+
+Osquid:S1612	",Replace this lambda with a method reference.(½±Ð³ûÿÿÿÿ8ÀÚ»¥Ù.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(»žœÌ8ÖÌø¥Ù.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(²×òâüÿÿÿÿ8÷ìÞ¥Ù.
+Dsquid:S1481"'Remove this unused "c3" local variable.(Ýæï8÷ìÞ¥Ù.
+Ssquid:S1854"6Remove this useless assignment to local variable "c3".(Ýæï8÷ìÞ¥Ù.
+zsquid:S4276"\Refactor this code to use the more specialised Functional Interface 'UnaryOperator<Integer>'(£ä…³8µàõ¥Ù.
+Lsquid:S1611"/Remove the parentheses around the "c" parameter(Ýæï8ž«À¥Ù.
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¤Ã¬y8ÓìÃ¥Ù.
+[
+squid:S106	"9Replace this use of System.out or System.err by a logger.(½±Ð³ûÿÿÿÿ8ÀÚ»¥Ù.
+[
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(Áô¡Ëþÿÿÿÿ8ÀÚ»¥Ù.
+Osquid:S1612
+",Replace this lambda with a method reference.(Áô¡Ëþÿÿÿÿ8ÀÚ»¥Ù.
+Rsquid:S1611	"/Remove the parentheses around the "s" parameter(½±Ð³ûÿÿÿÿ8ÀÚ»¥Ù.
+Rsquid:S1611
+"/Remove the parentheses around the "s" parameter(Áô¡Ëþÿÿÿÿ8ÀÚ»¥Ù.
+zsquid:S4276"\Refactor this code to use the more specialised Functional Interface 'UnaryOperator<Integer>'(…¢¸—8Þ¢õ¥Ù.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(·¨¾œ8¬éñ¥Ù.

@@ -1,0 +1,38 @@
+
+asquid:S1192"LDefine a constant instead of duplicating this literal "-----------" 7 times.(‚ÎšÛ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŞÒ©Ø
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚ÎšÛ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(³š¾ğùÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚ÎšÛ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(§œÅ›
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚¨Ö§
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚ÎšÛ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(¥µ¤ß
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚ÎšÛ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Áß‡Ü
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚ÎšÛ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(¾ùôŒùÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚ÎšÛ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(±‡âÈüÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚ÎšÛ
+Qsquid:S3655"7Call "Optional#isPresent()" before accessing the value.(¶¨ßˆıÿÿÿÿ
+Ksquid:S3655"7Call "Optional#isPresent()" before accessing the value.(Şà8
+Lsquid:S3655"7Call "Optional#isPresent()" before accessing the value.(°æ§›
+Lsquid:S3655"7Call "Optional#isPresent()" before accessing the value.(†öû³
+Xsquid:S3358"DExtract this nested ternary operation into an independent statement.(«Îà
+Ysquid:UselessImportCheck"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ

@@ -1,0 +1,19 @@
+
+[
+squid:S106*"9Replace this use of System.out or System.err by a logger.(ÄÕšÌøÿÿÿÿ8²´‡ÌÙ.
+Nsquid:S1611"1Remove the parentheses around the "emp" parameter(·Ç_8ÂÅåÃÙ.
+Jsquid:S1659!"'Declare "timeTaken" on a separate line.(ğË´‰üÿÿÿÿ8¾§‰ÌÙ.
+Hsquid:S1659!"%Declare "endTime" on a separate line.(ğË´‰üÿÿÿÿ8£ç„ÌÙ.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(˜ØæÅ8ğÄ‚ÇÙ.
+Psquid:S3958"2Refactor the code so this stream pipeline is used.(ÆÌá«8Ñº’ÅÙ.
+Tsquid:S1611"1Remove the parentheses around the "emp" parameter(Ç°±«ıÿÿÿÿ8ü¥ÅÙ.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ò¹…İúÿÿÿÿ8ÂÅåÃÙ.
+Osquid:S1481",Remove this unused "fitler2" local variable.(Ç°±«ıÿÿÿÿ8ü¥ÅÙ.
+U
+squid:S106'"9Replace this use of System.out or System.err by a logger.(è²ÏS8óê€ÇÙ.
+Isquid:S1612$",Replace this lambda with a method reference.(†òŒV8 ïıÆÙ.
+^squid:S1854";Remove this useless assignment to local variable "fitler2".(Ç°±«ıÿÿÿÿ8ü¥ÅÙ.
+Nsquid:S1611$"1Remove the parentheses around the "emp" parameter(†òŒV8 ïıÆÙ.
+Osquid:S1611"1Remove the parentheses around the "emp" parameter(ÆÌá«8Ñº’ÅÙ.
+Osquid:S1611"1Remove the parentheses around the "emp" parameter(ã®›ô8¡ŸğÃÙ.

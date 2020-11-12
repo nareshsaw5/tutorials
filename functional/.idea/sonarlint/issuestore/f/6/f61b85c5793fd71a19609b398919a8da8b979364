@@ -1,0 +1,35 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¹Ş„ ùÿÿÿÿ8‚¾ªíÙ.
+[
+squid:S106/"9Replace this use of System.out or System.err by a logger.(°‹øÿÿÿÿ8Ü±ííÙ.
+Osquid:S1612.",Replace this lambda with a method reference.(Í¾õÇùÿÿÿÿ8¢ÁìíÙ.
+U
+squid:S106*"9Replace this use of System.out or System.err by a logger.(ƒú…68³±äíÙ.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ê¨«”8Â†©íÙ.
+[
+squid:S106%"9Replace this use of System.out or System.err by a logger.(¢ä©Îùÿÿÿÿ8ÅæØíÙ.
+Psquid:S1611"3Remove the parentheses around the "entry" parameter(ÓÂ®=8§ºíÙ.
+Osquid:S1612#",Replace this lambda with a method reference.(§–Œµúÿÿÿÿ8…ÛÖíÙ.
+Jsquid:S1612)",Replace this lambda with a method reference.(¿ùŞú8¬ãíÙ.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(áãéáûÿÿÿÿ8ãÍíÙ.
+Qsquid:S16116"3Remove the parentheses around the "entry" parameter(¢ÒÇí8ÿı•‡Ú.
+Osquid:S1612#",Replace this lambda with a method reference.(§–Œµúÿÿÿÿ8…ÛÖíÙ.
+[
+squid:S106+"9Replace this use of System.out or System.err by a logger.(¹Ş„ ùÿÿÿÿ8üôäíÙ.
+{squid:S1192"XDefine a constant instead of duplicating this literal "_______________________" 5 times.(¹Ş„ ùÿÿÿÿ8åª¶íÙ.
+Vsquid:S1611""3Remove the parentheses around the "entry" parameter(Í¥øıÿÿÿÿ8…ÛÖíÙ.
+[
+squid:S106&"9Replace this use of System.out or System.err by a logger.(¹Ş„ ùÿÿÿÿ8´åíÙ.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(á¶‹§8êŸ½íÙ.
+[
+squid:S1065"9Replace this use of System.out or System.err by a logger.(»¶Åøÿÿÿÿ8±·‘‡Ú.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¹Ş„ ùÿÿÿÿ8åª¶íÙ.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¹Ş„ ùÿÿÿÿ8½—ªíÙ.
+V
+squid:S1066"9Replace this use of System.out or System.err by a logger.(¢ÒÇí8…ù›‡Ú.

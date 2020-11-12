@@ -1,0 +1,27 @@
+
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(í©Ñ!8·°äÙ.
+V
+squid:S1068"9Replace this use of System.out or System.err by a logger.(îõ‹˜8Í¯ëèÙ.
+V
+squid:S106:"9Replace this use of System.out or System.err by a logger.(·‰²ª8§¾ôèÙ.
+V
+squid:S106!"9Replace this use of System.out or System.err by a logger.(½Í¹«8¿ç±äÙ.
+[
+squid:S1069"9Replace this use of System.out or System.err by a logger.(Á¿·Îıÿÿÿÿ8öÌñèÙ.
+[
+squid:S1060"9Replace this use of System.out or System.err by a logger.(¤ÉÆÃıÿÿÿÿ8ıÒèÙ.
+Jsquid:S1612$",Replace this lambda with a method reference.(©¦Ø¾8È‹¼èÙ.
+Fsquid:S1148C"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¡¶çâÙ.
+Jsquid:S1612",Replace this lambda with a method reference.(Àùó8¿ç±äÙ.
+Jsquid:S1612>",Replace this lambda with a method reference.(–‘æ°8£¤ˆéÙ.
+[
+squid:S106?"9Replace this use of System.out or System.err by a logger.(ƒğ«İşÿÿÿÿ8ğ£‰éÙ.
+[
+squid:S106("9Replace this use of System.out or System.err by a logger.(ÏÚû©úÿÿÿÿ8Ö—ÀèÙ.
+U
+squid:S1061"9Replace this use of System.out or System.err by a logger.(ÿªˆ;8ë»ÔèÙ.
+Osquid:S1602'",Remove useless curly braces around statement(¯“±±úÿÿÿÿ8üÛÁèÙ.
+Jsquid:S1612$",Replace this lambda with a method reference.(©¦Ø¾8È‹¼èÙ.
+Jsquid:S1612",Replace this lambda with a method reference.(ˆ°šÓ8Í«äÙ.
+Jsquid:S16124",Replace this lambda with a method reference.(±è³©8Æ™êèÙ.

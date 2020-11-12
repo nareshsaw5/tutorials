@@ -1,12 +1,10 @@
 package dodo.learning.udemy.thread;
 
-import jdk.nashorn.internal.ir.annotations.Ignore;
 import org.junit.jupiter.api.Test;
 
 public class ThreadTest {
 
     @Test
-    @Ignore
     public void testThread() throws InterruptedException {
 
         Thread t = new Thread(new Runnable() {
@@ -30,7 +28,6 @@ public class ThreadTest {
     }
 
     @Test
-    @Ignore
     public void testCustomThreadClass() {
         Thread t = new MyThread();
         t.start();
@@ -38,7 +35,6 @@ public class ThreadTest {
     }
 
     @Test
-    @Ignore
     public void testInterrupted() {
         Thread t = new Thread(new BlockingThread());
         t.start();

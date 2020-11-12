@@ -1,6 +1,5 @@
 
+osquid:UselessImportCheck"FRemove this unused import 'java.util.concurrent.atomic.AtomicInteger'.(Ώκδψÿÿÿÿ
+Jsquid:S1612",Replace this lambda with a method reference.(δη¦Ώ8”Ω.
 T
-squid:S106"9Replace this use of System.out or System.err by a logger.(®σΰύÿÿÿÿ
-Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(σ­ς£
-osquid:UselessImportCheck"FRemove this unused import 'java.util.concurrent.atomic.AtomicInteger'.(Ώκδψÿÿÿÿ
-msquid:UselessImportCheck"IRemove this unused import 'sun.util.locale.provider.TimeZoneNameUtility'.(σ­ς£
+squid:S106"9Replace this use of System.out or System.err by a logger.(®σΰύÿÿÿÿ

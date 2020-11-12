@@ -1,0 +1,11 @@
+
+Rsquid:S1611"4Remove the parentheses around the "burger" parameter(ùâæ»8©ÕÏ¹Ù.
+Jsquid:S1612",Replace this lambda with a method reference.(ùâæ»8©ÕÏ¹Ù.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(—ÞÓâ8º“¼¹Ù.
+Jsquid:S1612",Replace this lambda with a method reference.(¦¦Í”8Å ¿¹Ù.
+Rsquid:S1611"4Remove the parentheses around the "burger" parameter(¦¦Í”8Å ¿¹Ù.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ì­™‘ÿÿÿÿÿ8Å ¿¹Ù.
+Wsquid:S1611"4Remove the parentheses around the "burger" parameter(Ððà»ýÿÿÿÿ8ƒýº¹Ù.
+Osquid:S1612",Replace this lambda with a method reference.(Ððà»ýÿÿÿÿ8ƒýº¹Ù.

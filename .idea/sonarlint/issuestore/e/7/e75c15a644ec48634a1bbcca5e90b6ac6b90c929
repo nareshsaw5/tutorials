@@ -1,0 +1,27 @@
+
+V
+squid:S106)"9Replace this use of System.out or System.err by a logger.(Ü‚ç8ä œ†Û.
+_squid:UselessImportCheck"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8à¢ŠÛ.
+rsquid:S1192"ODefine a constant instead of duplicating this literal "--------------" 4 times.(†·§ÿÿÿÿÿ8ò‚†Û.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(µ©·¢8Ÿ¥Ü…Û.
+[
+squid:S106."9Replace this use of System.out or System.err by a logger.(Ë©§ùÿÿÿÿ8ƒô¤ŠÛ.
+csquid:UselessImportCheck"8Remove this unused import 'java.util.function.Function'.(»³Í8ÌÄñ‰Û.
+esquid:UselessImportCheck":Remove this unused import 'java.util.function.BiFunction'.(ô¿°×8‡¸ÑŠÛ.
+[
+squid:S106*"9Replace this use of System.out or System.err by a logger.(†·§ÿÿÿÿÿ8¿±†Û.
+[
+squid:S106!"9Replace this use of System.out or System.err by a logger.(Õı³ÿÿÿÿÿ8¼Ìñ…Û.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(†·§ÿÿÿÿÿ8ä¶ò…Û.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(œ´ØÄ8”Çê…Û.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(†·§ÿÿÿÿÿ8ØÙÜ…Û.
+Rsquid:S1611%"/Remove the parentheses around the "e" parameter(É“Áşÿÿÿÿ8œ»™†Û.
+[
+squid:S106""9Replace this use of System.out or System.err by a logger.(†·§ÿÿÿÿÿ8ò‚†Û.
+Osquid:S1602-",Remove useless curly braces around statement(¹“°ıÿÿÿÿ8Ÿé¦ŠÛ.
+gsquid:UselessImportCheck"7Remove this unused import 'java.util.stream.Collector'.(ß‹ÎÓøÿÿÿÿ8ÎÈŠÛ.
+vsquid:S1602%"SRemove useless curly braces around statement and then remove useless return keyword(É“Áşÿÿÿÿ8œ»™†Û.

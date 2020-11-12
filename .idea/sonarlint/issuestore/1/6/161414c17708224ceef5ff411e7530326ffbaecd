@@ -1,0 +1,12 @@
+
+wsquid:S2293#"YReplace the type specification in this constructor call with the diamond operator ("<>").(“ÿÛˆ8½²à·Ú.
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÀóß8½²à·Ú.
+[
+squid:S1069"9Replace this use of System.out or System.err by a logger.(¬€èĞüÿÿÿÿ8½²à·Ú.
+|squid:S2293""YReplace the type specification in this constructor call with the diamond operator ("<>").(ÄéÍšıÿÿÿÿ8üØìµÚ.
+psquid:S00117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ§ïì8’¥‹½Ú.
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»§Öòüÿÿÿÿ8½²à·Ú.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(º‘Ô‹úÿÿÿÿ8§…•½Ú.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Å¶áç8Ù’½Ú.

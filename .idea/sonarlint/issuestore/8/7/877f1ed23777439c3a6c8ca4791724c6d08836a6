@@ -1,0 +1,19 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(äŞË€8ÿÕ”Û.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ìÕñèúÿÿÿÿ8×’Û.
+V
+squid:S106)"9Replace this use of System.out or System.err by a logger.(¬Š÷8¤ÁÿÛ.
+rsquid:S1192"TDefine a constant instead of duplicating this literal "+++++++++++++++++++" 3 times.(äŞË€8í¬€Û.
+Jsquid:S1602(",Remove useless curly braces around statement(ù¡¿8¤ÁÿÛ.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(˜é„şÿÿÿÿ8æÇâÛ.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(äŞË€8Úè“Û.
+Qsquid:S1611("3Remove the parentheses around the "entry" parameter(ù¡¿8¤ÁÿÛ.
+[
+squid:S106""9Replace this use of System.out or System.err by a logger.(Ñ±Ëàøÿÿÿÿ8†ÓòÛ.
+V
+squid:S106%"9Replace this use of System.out or System.err by a logger.(äŞË€8í¬€Û.
+Osquid:S1602!",Remove useless curly braces around statement(İ³ÑĞùÿÿÿÿ8†ÓòÛ.

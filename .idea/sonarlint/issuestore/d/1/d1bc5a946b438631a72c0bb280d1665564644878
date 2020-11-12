@@ -1,10 +1,8 @@
 
-nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(˜ìâ¤úÿÿÿÿ8¦ò’Ù.
-¯%squid:RedundantThrowsDeclarationCheck
-"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(­Ëê8ˆÿô’Ù.
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(–Øç„ûÿÿÿÿ8Êåí’Ù.
-¹%squid:RedundantThrowsDeclarationCheck
-"€Remove the declaration of thrown exception 'java.util.concurrent.ExecutionException', as it cannot be thrown from method's body.(­Ëê8ˆÿô’Ù.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(˜ìâ¤úÿÿÿÿ8¦ò’Ù.
+¯%squid:RedundantThrowsDeclarationCheck"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(­Ëê8ˆÿô’Ù.
 qsquid:S1602"SRemove useless curly braces around statement and then remove useless return keyword(§áÿ·8¦Ôô’Ù.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(–Øç„ûÿÿÿÿ8Êåí’Ù.
+¹%squid:RedundantThrowsDeclarationCheck"€Remove the declaration of thrown exception 'java.util.concurrent.ExecutionException', as it cannot be thrown from method's body.(­Ëê8ˆÿô’Ù.
 Msquid:S1611"/Remove the parentheses around the "n" parameter(§áÿ·8¦Ôô’Ù.

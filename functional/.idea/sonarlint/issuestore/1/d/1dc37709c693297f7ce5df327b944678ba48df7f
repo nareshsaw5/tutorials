@@ -1,0 +1,11 @@
+
+Zsquid:S1854"7Remove this useless assignment to local variable "sum".(ÇŽ”¹úÿÿÿÿ8Óÿ·ÆÙ.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨•Ã³ùÿÿÿÿ8ƒ˜ÐÆÙ.
+Ksquid:S1481"(Remove this unused "sum" local variable.(ÇŽ”¹úÿÿÿÿ8Óÿ·ÆÙ.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(±ì¥µúÿÿÿÿ8…Û¾ÆÙ.
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(ýåÐ\8¹Ó°ÆÙ.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(éÖõ×8áŽÃÆÙ.

@@ -1,0 +1,17 @@
+
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(³š¾ğùÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(‰ª¡
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ã±Íóúÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ä¨ˆªúÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Å¶áç
+Vsquid:S3655"<Call "maxOptional_1.isPresent()" before accessing the value.(Ä¨ˆªúÿÿÿÿ
+Lsquid:S3655"7Call "Optional#isPresent()" before accessing the value.(ö¶“
+Tsquid:S3655":Call "maxOptional.isPresent()" before accessing the value.(ã±Íóúÿÿÿÿ
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úğ°Ÿüÿÿÿÿ

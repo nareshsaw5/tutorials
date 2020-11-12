@@ -1,0 +1,15 @@
+
+>squid:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
+>squid:S21892""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
+O
+squid:S106D"9Replace this use of System.out or System.err by a logger.(–ÉîŒ
+T
+squid:S106F"9Replace this use of System.out or System.err by a logger.(ûŒºÄûÿÿÿÿ
+T
+squid:S106M"9Replace this use of System.out or System.err by a logger.(á´º½üÿÿÿÿ
+T
+squid:S106O"9Replace this use of System.out or System.err by a logger.(Ï‚üÿÿÿÿ
+]squid:S2142 "FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+]squid:S21425"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+?squid:S1148!"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S11486"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ

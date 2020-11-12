@@ -1,0 +1,9 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(úõ–áùÿÿÿÿ8‹İÿ©Ù.
+~squid:S4276"[Refactor this code to use the more specialised Functional Interface 'IntFunction<Function>'(ºÒüÿÿÿÿ8öïÜ©Ù.
+Osquid:S1612",Replace this lambda with a method reference.(¼ıàìûÿÿÿÿ8õ‚ªÙ.
+Rsquid:S1611"/Remove the parentheses around the "v" parameter(ºÒüÿÿÿÿ8öïÜ©Ù.
+Rsquid:S1611"/Remove the parentheses around the "u" parameter(ºÒüÿÿÿÿ8öïÜ©Ù.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚¨Ö§8á³Ş©Ù.

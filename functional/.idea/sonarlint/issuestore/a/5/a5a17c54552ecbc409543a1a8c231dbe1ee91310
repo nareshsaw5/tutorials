@@ -1,0 +1,38 @@
+
+[
+squid:S106("9Replace this use of System.out or System.err by a logger.(¾ùôŒùÿÿÿÿ8ñç“…Ú.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚ÎšÛ8óªø„Ú.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(§œÅ›8ù‚è„Ú.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚ÎšÛ8ùÃã„Ú.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚ÎšÛ8Àœä„Ú.
+V
+squid:S106-"9Replace this use of System.out or System.err by a logger.(‚ÎšÛ8Ø¾š…Ú.
+Tsquid:S3655'"7Call "Optional#isPresent()" before accessing the value.(Şà88Ä‹•…Ú.
+jsquid:S1192"LDefine a constant instead of duplicating this literal "-----------" 7 times.(‚ÎšÛ8óªø„Ú.
+[
+squid:S106,"9Replace this use of System.out or System.err by a logger.(±‡âÈüÿÿÿÿ8ïš—…Ú.
+Usquid:S3655"7Call "Optional#isPresent()" before accessing the value.(°æ§›8ÏÌö„Ú.
+bsquid:UselessImportCheck"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8©â…Ú.
+V
+squid:S106 "9Replace this use of System.out or System.err by a logger.(¥µ¤ß8ÏÌö„Ú.
+V
+squid:S106)"9Replace this use of System.out or System.err by a logger.(‚ÎšÛ8Ø¾š…Ú.
+V
+squid:S106!"9Replace this use of System.out or System.err by a logger.(‚ÎšÛ8„×ø„Ú.
+Zsquid:S3655#"7Call "Optional#isPresent()" before accessing the value.(¶¨ßˆıÿÿÿÿ8”Ÿ’…Ú.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŞÒ©Ø8ñšã„Ú.
+Usquid:S3655"7Call "Optional#isPresent()" before accessing the value.(†öû³8ÿ™ï„Ú.
+V
+squid:S106$"9Replace this use of System.out or System.err by a logger.(Áß‡Ü8åÔ’…Ú.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(³š¾ğùÿÿÿÿ8ÔÉÖ„Ú.
+asquid:S3358"DExtract this nested ternary operation into an independent statement.(«Îà8ÏŠÚ„Ú.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚¨Ö§8ÿ™ï„Ú.
+V
+squid:S106%"9Replace this use of System.out or System.err by a logger.(‚ÎšÛ8Ø¾š…Ú.

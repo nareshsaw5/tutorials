@@ -1,0 +1,6 @@
+
+{squid:S4276
+"]Refactor this code to use the more specialised Functional Interface 'BinaryOperator<Integer>'(áú§¨8ÍôŸÛ.
+[squid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8…´¦Û.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ì¹«ã8ÍôŸÛ.

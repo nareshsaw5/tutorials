@@ -1,11 +1,11 @@
 
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ªà÷íØ.
+dsquid:S2142("FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ÈÃ€îØ.
 V
 squid:S106'"9Replace this use of System.out or System.err by a logger.(ŸŠ‡¶8èÿ‚îØ.
 Fsquid:S1148)"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÈÃ€îØ.
 dsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ªà÷íØ.
-dsquid:S2142("FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ÈÃ€îØ.
 [
 squid:S106"9Replace this use of System.out or System.err by a logger.(¿«Á—ıÿÿÿÿ8å¬ƒîØ.
-Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ªà÷íØ.
 \
 squid:S899":Do something with the "boolean" value returned by "offer".(Ğáö¤øÿÿÿÿ8‡ÿƒîØ.

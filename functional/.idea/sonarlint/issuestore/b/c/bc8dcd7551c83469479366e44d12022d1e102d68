@@ -1,0 +1,8 @@
+
+Msquid:S1611"/Remove the parentheses around the "e" parameter(˜€“”8¿Ş£ëÙ.
+Qsquid:S1611"3Remove the parentheses around the "list3" parameter(¸ñ“õ8¯ÇÀëÙ.
+hsquid:UselessImportCheck"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8‡ª¸ëÙ.
+V
+squid:S106#"9Replace this use of System.out or System.err by a logger.(éæ„¨8Ğ¸ëÙ.
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(²äÏg8¿Ş£ëÙ.

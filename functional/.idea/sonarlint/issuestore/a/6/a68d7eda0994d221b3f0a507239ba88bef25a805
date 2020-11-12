@@ -1,0 +1,6 @@
+
+]squid:S1126@"AReplace this if-then-else statement by a single return statement.(ãŽÿîûÿÿÿÿ
+Dsquid:S1125@"(Remove the literal "true" boolean value.(ãŽÿîûÿÿÿÿ
+psquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¸“ºþ
+psquid:S2293("YReplace the type specification in this constructor call with the diamond operator ("<>").(¥›Ê²
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ßñÓÖüÿÿÿÿ

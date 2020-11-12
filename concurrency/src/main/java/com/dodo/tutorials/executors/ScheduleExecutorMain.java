@@ -2,7 +2,8 @@ package com.dodo.tutorials.executors;
 
 import java.util.Arrays;
 import java.util.List;
-import java.util.concurrent.*;
+import java.util.concurrent.Callable;
+import java.util.concurrent.ExecutionException;
 import java.util.stream.Collectors;
 
 public class ScheduleExecutorMain {
@@ -13,12 +14,10 @@ public class ScheduleExecutorMain {
         System.out.println(f.get());
         service.shutdown();*/
 
-
-        List<Integer> list = Arrays.asList(1,7,3,4,5,5,7);
-        List<Integer> larger = list.stream().map( (n) -> {
-           return n * n;
-        })
-                .collect(Collectors.toList());
+        List<Integer> list = Arrays.asList(1, 7, 3, 4, 5, 5, 7);
+        List<Integer> larger = list.stream().map((n) -> {
+            return n * n;
+        }).collect(Collectors.toList());
 
         System.out.println(larger);
 
@@ -27,7 +26,7 @@ public class ScheduleExecutorMain {
 
 class MyCallable implements Callable<String> {
 
-    public String call(){
+    public String call() {
         return "Hello";
     }
 }

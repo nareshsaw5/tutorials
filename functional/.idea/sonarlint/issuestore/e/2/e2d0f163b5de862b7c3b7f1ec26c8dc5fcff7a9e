@@ -1,0 +1,26 @@
+
+jsquid:S1192"SDefine a constant instead of duplicating this literal "------------------" 5 times.(È©ƒ«
+O
+squid:S106 "9Replace this use of System.out or System.err by a logger.(È©ƒ«
+T
+squid:S1064"9Replace this use of System.out or System.err by a logger.(ó¼ãˆÿÿÿÿÿ
+T
+squid:S106+"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+O
+squid:S1066"9Replace this use of System.out or System.err by a logger.(È©ƒ«
+Hsquid:S1612*",Replace this lambda with a method reference.(õò«÷şÿÿÿÿ
+O
+squid:S106&"9Replace this use of System.out or System.err by a logger.(È©ƒ«
+asquid:S1192"JDefine a constant instead of duplicating this literal "Bollywood" 3 times.(®ÂØö
+asquid:S1192"JDefine a constant instead of duplicating this literal "Hollywood" 5 times.(åöî
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(È©ƒ«
+Csquid:S16121",Replace this lambda with a method reference.(àšÿÂ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ö •³øÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ö •³øÿÿÿÿ
+O
+squid:S106,"9Replace this use of System.out or System.err by a logger.(È©ƒ«
+T
+squid:S106$"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ

@@ -1,0 +1,26 @@
+
+{squid:S4276"]Refactor this code to use the more specialised Functional Interface 'BinaryOperator<Integer>'(¶ÒÀã8ü§ú‹Û.
+Osquid:S16024",Remove useless curly braces around statement(¥èúâüÿÿÿÿ8Æ¦ƒÛ.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ïºûÿÿÿÿ
+[
+squid:S1065"9Replace this use of System.out or System.err by a logger.(Ñ±Ëàøÿÿÿÿ8Æ¦ƒÛ.
+N
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÄËç@
+T
+squid:S106!"9Replace this use of System.out or System.err by a logger.(ôˆ”—ûÿÿÿÿ
+Nsquid:S1481"0Remove this unused "biFunction2" local variable.(¶ÒÀã8Ã¤ù‹Û.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ä”ÖÅşÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Óşƒ¸úÿÿÿÿ
+Osquid:S1481%"1Remove this unused "lowerCaseFn2" local variable.(İı“¸8÷£ö‹Û.
+Jsquid:S1612%",Replace this lambda with a method reference.(İı“¸8Ô±÷‹Û.
+Msquid:S1611%"/Remove the parentheses around the "v" parameter(İı“¸8ç…÷‹Û.
+ysquid:S4276%"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(İı“¸8ç…÷‹Û.
+[
+squid:S106&"9Replace this use of System.out or System.err by a logger.(·ÃŞÀÿÿÿÿÿ8Ô±÷‹Û.
+]squid:S1854"?Remove this useless assignment to local variable "biFunction2".(¶ÒÀã8Ã¤ù‹Û.
+^squid:S1854%"@Remove this useless assignment to local variable "lowerCaseFn2".(İı“¸8÷£ö‹Û.
+V
+squid:S106'"9Replace this use of System.out or System.err by a logger.(öÈÛ¡8ØñÛ.

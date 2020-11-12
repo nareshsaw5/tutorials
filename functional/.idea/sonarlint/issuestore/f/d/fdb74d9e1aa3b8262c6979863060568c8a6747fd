@@ -1,0 +1,12 @@
+
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(§“‰q8İÂå£Ù.
+Tsquid:S1611"1Remove the parentheses around the "val" parameter( âÚÿÿÿÿÿ8Šàá£Ù.
+V
+squid:S106	"9Replace this use of System.out or System.err by a logger.(¯Éüÿ8Šàá£Ù.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¿èÁ8Šàá£Ù.
+Tsquid:S1611"1Remove the parentheses around the "val" parameter(ß®Ó§ùÿÿÿÿ8Šàá£Ù.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨ÁÚ8Šàá£Ù.
+Psquid:S3655"2Call "map.isPresent()" before accessing the value.(¿èÁ8Šàá£Ù.

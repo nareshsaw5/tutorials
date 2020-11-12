@@ -1,0 +1,6 @@
+
+ssquid:S2629*"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(Æ±Œ
+psquid:S2293""YReplace the type specification in this constructor call with the diamond operator ("<>").(ûåâ
+ssquid:S2629)"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(Ù…î
+Xsquid:S3457)"AFormat specifiers should be used instead of string concatenation.(Ù…î
+Xsquid:S3457*"AFormat specifiers should be used instead of string concatenation.(Æ±Œ

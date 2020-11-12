@@ -1,0 +1,39 @@
+
+Usquid:S3655?"7Call "Optional#isPresent()" before accessing the value.(øĞûê8Ò¸ØÛ.
+Rsquid:S1611"4Remove the parentheses around the "number" parameter(—®ŒÁ8Ñ¶İÛ.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ïåĞ¤8ÍşÊÛ.
+V
+squid:S106'"9Replace this use of System.out or System.err by a logger.(ïåĞ¤8†³ëÛ.
+V
+squid:S106C"9Replace this use of System.out or System.err by a logger.(óÀÃé8ÚôáÛ.
+Usquid:S36550"7Call "Optional#isPresent()" before accessing the value.(ÛÊÇ¡8Ó‚ªÛ.
+[
+squid:S106N"9Replace this use of System.out or System.err by a logger.(¾ùôŒùÿÿÿÿ8çÜ¼“Û.
+V
+squid:S106E"9Replace this use of System.out or System.err by a logger.(ïåĞ¤8çŸµ“Û.
+qsquid:S16020"SRemove useless curly braces around statement and then remove useless return keyword(ÛÊÇ¡8ç÷ÆÛ.
+vsquid:S1192"XDefine a constant instead of duplicating this literal "+++++++++++++++++++++++" 6 times.(ïåĞ¤8†³ëÛ.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚¨Ö§8“ÃºÛ.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(óÇÁ›8ùïŞÛ.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ïåĞ¤8Ö“»Û.
+V
+squid:S1065"9Replace this use of System.out or System.err by a logger.(ü×Ø¦8£ø½Û.
+[
+squid:S106&"9Replace this use of System.out or System.err by a logger.(Ë‹ğ·ÿÿÿÿÿ8ÛìéÛ.
+V
+squid:S106H"9Replace this use of System.out or System.err by a logger.(«Ãıû8×Ÿ´“Û.
+Usquid:S3655"7Call "Optional#isPresent()" before accessing the value.(ì­½â8”œÇÛ.
+V
+squid:S1066"9Replace this use of System.out or System.err by a logger.(ïåĞ¤8ÀÍ«Û.
+V
+squid:S106 "9Replace this use of System.out or System.err by a logger.(ïåĞ¤8†³ëÛ.
+vsquid:S1602@"SRemove useless curly braces around statement and then remove useless return keyword(½£Ï•úÿÿÿÿ8ëşÙÛ.
+V
+squid:S106K"9Replace this use of System.out or System.err by a logger.(Å¶áç8äæ¸“Û.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ØÅ²À8§ŸÈÛ.
+isquid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(şÓõ€8³äÆÛ.

@@ -1,0 +1,10 @@
+
+esquid:HiddenFieldCheck"7Rename "name" which hides the field declared at line 8.(Ó°ëùÿÿÿÿ8‚¬âÙ.
+Wsquid:S1611"4Remove the parentheses around the "author" parameter(îÃäƒøÿÿÿÿ8‚¬âÙ.
+Osquid:S1612",Replace this lambda with a method reference.(´à¯áÿÿÿÿÿ8‚¬âÙ.
+Rsquid:S1611"4Remove the parentheses around the "genere" parameter(Ç×Ïá8‚¬âÙ.
+csquid:HiddenFieldCheck":Rename "genere" which hides the field declared at line 10.(Ç×Ïá8‚¬âÙ.
+hsquid:HiddenFieldCheck":Rename "rating" which hides the field declared at line 11.(´à¯áÿÿÿÿÿ8‚¬âÙ.
+Usquid:S1611"2Remove the parentheses around the "name" parameter(Ó°ëùÿÿÿÿ8‚¬âÙ.
+gsquid:HiddenFieldCheck"9Rename "author" which hides the field declared at line 9.(îÃäƒøÿÿÿÿ8‚¬âÙ.
+Wsquid:S1611"4Remove the parentheses around the "rating" parameter(´à¯áÿÿÿÿÿ8‚¬âÙ.

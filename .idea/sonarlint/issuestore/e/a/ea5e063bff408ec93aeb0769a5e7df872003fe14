@@ -1,0 +1,12 @@
+
+]squid:S2142-"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+Xsquid:S3457U"AFormat specifiers should be used instead of string concatenation.(Ù…î
+Nsquid:S1135"2Complete the task associated to this TODO comment.(„æÀ³øÿÿÿÿ
+<squid:S34576"%String contains no format specifiers.(‡±·â
+Xsquid:S3457V"AFormat specifiers should be used instead of string concatenation.(ì‹ñ˜
+?squid:S1148."#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+ssquid:S2629U"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(Ù…î
+ssquid:S2629V"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ì‹ñ˜
+]squid:S21425"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+psquid:S2293K"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒÌå±
+<squid:S3457\"%String contains no format specifiers.(ã¯ŸÍ

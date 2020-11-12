@@ -1,0 +1,4 @@
+
+ќsquid:S1186"ЂAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(АуоЌ8еќФгЪ.
+Jsquid:S1481")Remove this unused "list" local variable.(¤Кн…эяяяя8Ђ—ТгЪ.
+Ysquid:S1854"8Remove this useless assignment to local variable "list".(¤Кн…эяяяя8Ђ—ТгЪ.

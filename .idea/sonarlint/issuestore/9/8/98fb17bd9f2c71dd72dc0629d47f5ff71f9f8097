@@ -1,0 +1,24 @@
+
+osquid:S4276"XRefactor this code to use the more specialised Functional Interface 'Predicate<Integer>'(­Äêª
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ñóý—
+N
+squid:S106/"9Replace this use of System.out or System.err by a logger.(ì§æG
+Rsquid:S1854"6Remove this useless assignment to local variable "fn".(÷Òàøÿÿÿÿ
+Rsquid:S1854"5Remove this useless assignment to local variable "s".(•¬þu8¦éýŠÛ.
+O
+squid:S106="9Replace this use of System.out or System.err by a logger.(©­ï‚
+Fsquid:S1611"/Remove the parentheses around the "n" parameter(­Äêª
+Isquid:S1611"2Remove the parentheses around the "list" parameter(…žÌù
+V
+squid:S106H"9Replace this use of System.out or System.err by a logger.(œ•é‹8êòÑŠÛ.
+T
+squid:S1065"9Replace this use of System.out or System.err by a logger.(Ê»¿Åýÿÿÿÿ
+Csquid:S1481"&Remove this unused "s" local variable.(•¬þu8¦éýŠÛ.
+Csquid:S1481"'Remove this unused "fn" local variable.(÷Òàøÿÿÿÿ
+Rsquid:S1611"6Remove the parentheses around the "sentence" parameter(÷Òàøÿÿÿÿ
+wsquid:S42769"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(ÙàŠ±úÿÿÿÿ
+T
+squid:S106>"9Replace this use of System.out or System.err by a logger.(Ñ‹Ç“ýÿÿÿÿ
+osquid:S16029"SRemove useless curly braces around statement and then remove useless return keyword(ÙàŠ±úÿÿÿÿ
+hsquid:UselessImportCheck"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8×ï€‹Û.
+Ksquid:EmptyStatementUsageCheck#"Remove this empty statement.(ôŸŽìúÿÿÿÿ

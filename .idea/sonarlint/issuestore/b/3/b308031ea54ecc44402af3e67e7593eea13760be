@@ -1,0 +1,27 @@
+
+_squid:S1192"JDefine a constant instead of duplicating this literal "Hollywood" 5 times.(åöî
+asquid:S1192"LDefine a constant instead of duplicating this literal "-----------" 4 times.(‚ÎšÛ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ö •³øÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚ÎšÛ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ö •³øÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚ÎšÛ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ü›ûŸ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚ÎšÛ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ãÒû–üÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚ÎšÛ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
+Msquid:S3655"8Call "optionalS.isPresent()" before accessing the value.(Ã¯ªí
+Fsquid:S1612",Replace this lambda with a method reference.(’Ğµ©ıÿÿÿÿ
+Fsquid:S1612",Replace this lambda with a method reference.(õò«÷şÿÿÿÿ
+Msquid:S1611"3Remove the parentheses around the "movie" parameter(’Ğµ©ıÿÿÿÿ
+^squid:UselessImportCheck"7Remove this unused import 'java.util.stream.Collector'.(ß‹ÎÓøÿÿÿÿ
+Ssquid:UselessImportCheck"1Remove this unused import 'java.util.Comparator'.(î¹ó¹

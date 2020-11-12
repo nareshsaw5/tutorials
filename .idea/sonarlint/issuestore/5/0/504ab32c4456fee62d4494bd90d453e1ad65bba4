@@ -1,0 +1,19 @@
+
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(²ß»‘
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(×Œûÿÿÿÿ
+usquid:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+Zsquid:UselessImportCheck"6Remove this unused import 'java.io.InputStreamReader'.(ãˆÎÉ
+Xsquid:UselessImportCheck"/Remove this unused import 'java.io.FileReader'.(Â¡¢äşÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(“£Ëà
+T
+squid:S106-"9Replace this use of System.out or System.err by a logger.(à´ä³ÿÿÿÿÿ
+Wsquid:UselessImportCheck"3Remove this unused import 'java.io.BufferedReader'.(€é²Å
+¢%squid:RedundantThrowsDeclarationCheck$"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(§Õºüøÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(î­êÒıÿÿÿÿ
+¯%squid:RedundantThrowsDeclarationCheck$"yRemove the declaration of thrown exception 'java.lang.ClassNotFoundException', as it cannot be thrown from method's body.(§Õºüøÿÿÿÿ
+Rsquid:UselessImportCheck")Remove this unused import 'java.net.URL'.(ñìÁ„üÿÿÿÿ
+asquid:UselessImportCheck	"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ

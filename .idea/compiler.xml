@@ -18,6 +18,7 @@
         <module name="kafka-learning" />
         <module name="kafka_stream" />
         <module name="mqconsumer" />
+        <module name="practice" />
         <module name="search_sort" />
         <module name="spring-boot-servlet-filter-example" />
       </profile>

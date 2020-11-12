@@ -1,0 +1,8 @@
+
+_squid:S3457,"AFormat specifiers should be used instead of string concatenation.(Æ±Œ8§°ü®Û.
+wsquid:S2293$"YReplace the type specification in this constructor call with the diamond operator ("<>").(ûåâ8§°ü®Û.
+zsquid:S2629,"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(Æ±Œ8§°ü®Û.
+_squid:S3457+"AFormat specifiers should be used instead of string concatenation.(Ù…î8§°ü®Û.
+wsquid:UselessImportCheck"SRemove this unused import 'org.apache.kafka.common.serialization.StringSerializer'.(Ş ¾ş
+]squid:UselessImportCheck"9Remove this unused import 'java.util.PropertyPermission'.(¶Êı
+zsquid:S2629+"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(Ù…î8§°ü®Û.

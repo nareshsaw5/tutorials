@@ -17,6 +17,7 @@ public class Main {
 
         }
 
+
         service.shutdown();
         service.awaitTermination(10, TimeUnit.MILLISECONDS);
         System.out.println("We currently have " + inventoryCounter.getItems() + " items");

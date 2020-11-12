@@ -1,0 +1,27 @@
+
+\squid:UselessImportCheck"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8ÿü‘ìÙ.
+V
+squid:S106!"9Replace this use of System.out or System.err by a logger.(‚ÎšÛ8îú²ìÙ.
+V
+squid:S106'"9Replace this use of System.out or System.err by a logger.(‚ÎšÛ8ÚîÁìÙ.
+Osquid:S1612*",Replace this lambda with a method reference.(’Ğµ©ıÿÿÿÿ8´–ÁìÙ.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ö •³øÿÿÿÿ8„•ìÙ.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚ÎšÛ8ß„“ìÙ.
+V
+squid:S106,"9Replace this use of System.out or System.err by a logger.(‚ÎšÛ8Õ£ÑìÙ.
+V
+squid:S106&"9Replace this use of System.out or System.err by a logger.(Ü›ûŸ8©·µìÙ.
+gsquid:UselessImportCheck"7Remove this unused import 'java.util.stream.Collector'.(ß‹ÎÓøÿÿÿÿ8¡‡ìÙ.
+hsquid:S1192"JDefine a constant instead of duplicating this literal "Hollywood" 5 times.(åöî8üîÿëÙ.
+jsquid:S1192"LDefine a constant instead of duplicating this literal "-----------" 4 times.(‚ÎšÛ8ÚîÁìÙ.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ö •³øÿÿÿÿ8œâ“ìÙ.
+[
+squid:S1063"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ8ÃËĞìÙ.
+Vsquid:S1611*"3Remove the parentheses around the "movie" parameter(’Ğµ©ıÿÿÿÿ8´–ÁìÙ.
+Osquid:S16120",Replace this lambda with a method reference.(õò«÷şÿÿÿÿ8ÕºÌìÙ.
+[
+squid:S106+"9Replace this use of System.out or System.err by a logger.(ãÒû–üÿÿÿÿ8´–ÁìÙ.
+Vsquid:S36552"8Call "optionalS.isPresent()" before accessing the value.(Ã¯ªí8“ôÏìÙ.
