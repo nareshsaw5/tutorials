@@ -1,11 +1,11 @@
 
-§%squid:RedundantThrowsDeclarationCheck"wRemove the declaration of thrown exception 'javax.servlet.ServletException', as it cannot be thrown from method's body.(ıù±
 =squid:S1989"'Add a "try/catch" block for "doAction".(»ŠÆ
-=squid:S1989"'Add a "try/catch" block for "doAction".(»ŠÆ
-=squid:S1989"'Add a "try/catch" block for "doAction".(»ŠÆ
-=squid:S1989"'Add a "try/catch" block for "doAction".(»ŠÆ
-Dsquid:S1989"(Add a "try/catch" block for "getWriter".(¨¼¯Şøÿÿÿÿ
-O
-squid:S106"9Replace this use of System.out or System.err by a logger.(‡“É
 O
 squid:S106"9Replace this use of System.out or System.err by a logger.(–½ò×
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(‡“É
+§%squid:RedundantThrowsDeclarationCheck"wRemove the declaration of thrown exception 'javax.servlet.ServletException', as it cannot be thrown from method's body.(ıù±
+=squid:S1989"'Add a "try/catch" block for "doAction".(»ŠÆ
+Dsquid:S1989"(Add a "try/catch" block for "getWriter".(¨¼¯Şøÿÿÿÿ
+=squid:S1989"'Add a "try/catch" block for "doAction".(»ŠÆ
+=squid:S1989"'Add a "try/catch" block for "doAction".(»ŠÆ

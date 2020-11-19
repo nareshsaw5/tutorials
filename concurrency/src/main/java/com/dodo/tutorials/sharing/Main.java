@@ -1,6 +1,5 @@
 package com.dodo.tutorials.sharing;
 
-import sun.awt.windows.ThemeReader;
 
 import java.util.concurrent.atomic.AtomicInteger;
 

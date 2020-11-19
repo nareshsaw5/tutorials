@@ -1,9 +1,7 @@
 
 [
 squid:S106"9Replace this use of System.out or System.err by a logger.(ˆê‹¼ùÿÿÿÿ8ıÍÙÕ×.
-esquid:S2259e"BA "NullPointerException" could be thrown; "prev" is nullable here.(çÑş„úÿÿÿÿ8•Åıê×.
 [
 squid:S106#"9Replace this use of System.out or System.err by a logger.(ªŠöøÿÿÿÿ8·ÿÛÕ×.
-[squid:S1854?"8Remove this useless assignment to local variable "prev".(½‚Æ»øÿÿÿÿ8°‰¿ê×.
 Lsquid:S1481?")Remove this unused "prev" local variable.(½‚Æ»øÿÿÿÿ8 ¡Àê×.
-[squid:S1854g"8Remove this useless assignment to local variable "curr".(ïµÀÍùÿÿÿÿ8ëˆÜê×.
+esquid:S2259e"BA "NullPointerException" could be thrown; "prev" is nullable here.(çÑş„úÿÿÿÿ8•Åıê×.

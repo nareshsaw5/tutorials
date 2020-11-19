@@ -1,0 +1,31 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÕúîÑ8¸™½ºİ.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(áñÁ·8›ß½ºİ.
+V
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(áñÁ·8õÃ˜¹İ.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(áñÁ·8õÃ˜¹İ.
+ksquid:S1192
+"MDefine a constant instead of duplicating this literal "------------" 4 times.(áñÁ·8õÃ˜¹İ.
+U
+squid:S106 "9Replace this use of System.out or System.err by a logger.(âÂ‰8ëà¶Ûİ.
+k$squid:AssignmentInSubExpressionCheckê".Extract the assignment out of this expression.(ø£Âïÿÿÿÿÿ8õÃ˜¹İ.
+V
+squid:S106!"9Replace this use of System.out or System.err by a logger.(ã€‡’8Œ°ÒÛİ.
+qsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Á×Ì8õÃ˜¹İ.
+V
+squid:S106%"9Replace this use of System.out or System.err by a logger.(î°²8›”ÜÛİ.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÛÈºÃúÿÿÿÿ8õÃ˜¹İ.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ã€‡’8Ö´»İ.
+‚squid:S1488"cImmediately return this expression instead of assigning it to the temporary variable "sortedArray".(ÒĞÊª8À®»¹İ.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(áñÁ·8õÃ˜¹İ.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ß¯¡Ã8õÃ˜¹İ.
+[
+squid:S106	"9Replace this use of System.out or System.err by a logger.(³ğ¸ûÿÿÿÿ8õÃ˜¹İ.

@@ -1,8 +1,8 @@
 
-vsquid:UselessImportCheck"KRemove this unused import 'jdk.nashorn.internal.codegen.CompilerConstants'.(È¹‹ö8êÚ°Ù.
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(®óàıÿÿÿÿ8÷ÊÏÙ.
-¹%squid:RedundantThrowsDeclarationCheck"€Remove the declaration of thrown exception 'java.util.concurrent.ExecutionException', as it cannot be thrown from method's body.(­Ëê8ÅşÊÙ.
-Jsquid:S1612",Replace this lambda with a method reference.(äç¦¿8æïÙÙ.
+¹%squid:RedundantThrowsDeclarationCheck
+"€Remove the declaration of thrown exception 'java.util.concurrent.ExecutionException', as it cannot be thrown from method's body.(­Ëê8ÅşÊÙ.
+Jsquid:S1612",Replace this lambda with a method reference.(äç¦¿8æïÙÙ.
 V
-squid:S1060"9Replace this use of System.out or System.err by a logger.(«‹Îõ8€›ÍÙ.
+squid:S106/"9Replace this use of System.out or System.err by a logger.(«‹Îõ8€›ÍÙ.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(®óàıÿÿÿÿ8÷ÊÏÙ.

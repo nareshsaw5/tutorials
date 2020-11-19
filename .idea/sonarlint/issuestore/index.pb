@@ -115,8 +115,6 @@ n
 Mcore-java/src/test/java/dodo/learning/sorting/SortingAndBinarySearchTest.java,8/4/841daf69a41554ec2da40208599d059c5687996f
 r
 Bcore-java/src/test/java/dodo/learning/udemy/thread/ThreadTest.java,e/d/ed0482b4e7c58145e90e18965d1a1ff24425c1d8
-Y
-)practice/src/main/java/com/dodo/Main.java,d/d/dda0023fc66a96f5fbcedc83bf2a629f3bd283f4
 }
 Mdatastructure/src/main/java/com/dodo/tutorials/datastructure/map/MapMain.java,1/c/1cc2473f89772cd087753cc2333ca8a679d59c0b
 q
@@ -277,3 +275,17 @@ n
 >functional/src/main/java/com/dodo/learning/stream/FlatMap.java,7/4/74c620b24e5671af1f167d478ca9fe28323ee64a
 t
 Dfunctional/src/main/java/com/dodo/learning/groupby/GroupByDemo2.java,5/8/586a4dc0f2032ca45a9405fc84b171e8b1b45775
+{
+Kfunctional/src/main/java/com/dodo/learning/functional/sortmap/Solution.java,9/d/9d27e1cbde841cc1bd61acd34a25ac1bc922e339
+u
+Econcurrency/src/main/java/com/dodo/tutorials/executors/ArrayMain.java,1/6/1657ffbdafd3afeb491c835e4ed15ff9459e7a1f
+t
+Dsearch_sort/src/main/java/com/dodo/tutorials/array/ArrayProblem.java,8/f/8fd761f75e767bbb0b49372edd5ceb72a5928c6f
+y
+Imqconsumer/src/main/java/com/example/demo/consumer/mq/MyQueueBuilder.java,f/7/f71e6bcb43efabeb9deea824aa5de52c6b546bf5
+€
+Pmqconsumer/src/main/java/com/example/demo/consumer/mq/RabbitMqConfiguration.java,3/c/3cdf4e790d702775a6e58f7082cbc1b0d21e2379
+‚
+Rmqconsumer/src/main/java/com/example/demo/consumer/mq/RabbitMqMessageListener.java,2/e/2e068797b19c2f154526997a08e2fd594b871a6e
+
+Omqconsumer/src/main/java/com/example/demo/consumer/DemoConsumerApplication.java,a/4/a402749adbc97aa102349f52b6d5c7e7fe2a571c

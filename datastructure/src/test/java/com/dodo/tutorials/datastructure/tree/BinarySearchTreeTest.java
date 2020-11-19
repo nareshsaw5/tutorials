@@ -35,7 +35,7 @@ public class BinarySearchTreeTest {
     }
 
     @Test
-    public void testPostPreOrder() {
+    public void testPostOrder() {
         bst = new BinarySearchTree<>();
         bst.insert(50);
         bst.insert(40);

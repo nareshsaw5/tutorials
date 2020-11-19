@@ -23,5 +23,8 @@
         <module name="spring-boot-servlet-filter-example" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ProductService" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

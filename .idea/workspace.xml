@@ -2,10 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27766bbe-76bc-4862-8fdc-2b6c63992742" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/functional/src/main/java/com/dodo/learning/functional/sortmap/SortMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProductService/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concurrency/src/main/java/com/dodo/tutorials/executors/ArrayMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functional/src/main/java/com/dodo/learning/functional/sortmap/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/src/main/java/com/dodo/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search_sort/src/main/java/com/dodo/tutorials/array/ArrayProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6ddc6c21957ae9284bf0299c2322b8eba73f3b1d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6ddc6c21957ae9284bf0299c2322b8eba73f3b1d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/8/a84984895a49e59471c7a133c1777f9d256ef723" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/8/a84984895a49e59471c7a133c1777f9d256ef723" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/d/dda0023fc66a96f5fbcedc83bf2a629f3bd283f4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/src/main/java/com/dodo/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/src/main/java/com/dodo/tutorials.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/src/main/java/com/dodo/tutorials/callable/CallableMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/concurrency/src/main/java/com/dodo/tutorials/callable/CallableMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/src/main/java/com/dodo/tutorials/sharing/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/concurrency/src/main/java/com/dodo/tutorials/sharing/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/target/classes/com/dodo/tutorials/CounterProblem.class" beforeDir="false" afterPath="$PROJECT_DIR$/concurrency/target/classes/com/dodo/tutorials/CounterProblem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/target/classes/com/dodo/tutorials/atomic/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/concurrency/target/classes/com/dodo/tutorials/atomic/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/target/classes/com/dodo/tutorials/atomic/TestDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/concurrency/target/classes/com/dodo/tutorials/atomic/TestDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/target/classes/com/dodo/tutorials/callable/CallableMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/concurrency/target/classes/com/dodo/tutorials/callable/CallableMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/target/classes/com/dodo/tutorials/callable/Counter.class" beforeDir="false" afterPath="$PROJECT_DIR$/concurrency/target/classes/com/dodo/tutorials/callable/Counter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/target/classes/com/dodo/tutorials/callable/TestCallable.class" beforeDir="false" afterPath="$PROJECT_DIR$/concurrency/target/classes/com/dodo/tutorials/callable/TestCallable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/target/classes/com/dodo/tutorials/condition/ConditionDemo$Message.class" beforeDir="false" afterPath="$PROJECT_DIR$/concurrency/target/classes/com/dodo/tutorials/condition/ConditionDemo$Message.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/target/classes/com/dodo/tutorials/condition/ConditionDemo$MessageProducer.class" beforeDir="false" afterPath="$PROJECT_DIR$/concurrency/target/classes/com/dodo/tutorials/condition/ConditionDemo$MessageProducer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/target/classes/com/dodo/tutorials/deadlock/DeadlockMain$Intersection.class" beforeDir="false" afterPath="$PROJECT_DIR$/concurrency/target/classes/com/dodo/tutorials/deadlock/DeadlockMain$Intersection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/target/classes/com/dodo/tutorials/deadlock/DeadlockMain$TrainA.class" beforeDir="false" afterPath="$PROJECT_DIR$/concurrency/target/classes/com/dodo/tutorials/deadlock/DeadlockMain$TrainA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/target/classes/com/dodo/tutorials/deadlock/DeadlockMain$TrainB.class" beforeDir="false" afterPath="$PROJECT_DIR$/concurrency/target/classes/com/dodo/tutorials/deadlock/DeadlockMain$TrainB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/target/classes/com/dodo/tutorials/lock/RWDictionary.class" beforeDir="false" afterPath="$PROJECT_DIR$/concurrency/target/classes/com/dodo/tutorials/lock/RWDictionary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/target/classes/com/dodo/tutorials/producer_consumer/Main$Consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/concurrency/target/classes/com/dodo/tutorials/producer_consumer/Main$Consumer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/target/classes/com/dodo/tutorials/producer_consumer/Main$Producer.class" beforeDir="false" afterPath="$PROJECT_DIR$/concurrency/target/classes/com/dodo/tutorials/producer_consumer/Main$Producer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/target/classes/com/dodo/tutorials/producer_consumer/ProducerConsumerDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/concurrency/target/classes/com/dodo/tutorials/producer_consumer/ProducerConsumerDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/target/classes/com/dodo/tutorials/sharing/Counter.class" beforeDir="false" afterPath="$PROJECT_DIR$/concurrency/target/classes/com/dodo/tutorials/sharing/Counter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/target/classes/com/dodo/tutorials/sharing/Main$DecrementThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/concurrency/target/classes/com/dodo/tutorials/sharing/Main$DecrementThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/target/classes/com/dodo/tutorials/sharing/Main$IncrementThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/concurrency/target/classes/com/dodo/tutorials/sharing/Main$IncrementThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/target/classes/com/dodo/tutorials/sharing/Main$InventoryCounter.class" beforeDir="false" afterPath="$PROJECT_DIR$/concurrency/target/classes/com/dodo/tutorials/sharing/Main$InventoryCounter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/target/classes/com/dodo/tutorials/sharing/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/concurrency/target/classes/com/dodo/tutorials/sharing/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure/src/test/java/com/dodo/tutorials/datastructure/tree/BinarySearchTreeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure/src/test/java/com/dodo/tutorials/datastructure/tree/BinarySearchTreeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/practice/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/practice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/target/classes/com/dodo/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/target/classes/com/dodo/MyComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/target/classes/com/dodo/tutorials.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search_sort/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/search_sort/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/datastructure/target/" />
@@ -23,6 +60,7 @@
     <ignored path="$PROJECT_DIR$/concurrency/target/" />
     <ignored path="$PROJECT_DIR$/functional/target/" />
     <ignored path="$PROJECT_DIR$/practice/target/" />
+    <ignored path="$PROJECT_DIR$/ProductService/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,64 +71,58 @@
     <session id="1402849427">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="15" />
+          <entry key="project.closed" value="21" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.11" value="3" />
+          <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.15" value="1" />
-          <entry key="project.open.time.2" value="3" />
-          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.2" value="4" />
+          <entry key="project.open.time.3" value="4" />
+          <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="16" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Dockerfile" value="1" />
           <entry key="class" value="9" />
-          <entry key="java" value="240" />
-          <entry key="xml" value="40" />
+          <entry key="java" value="283" />
+          <entry key="txt" value="1" />
+          <entry key="xml" value="47" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="9" />
-          <entry key="JAVA" value="240" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="XML" value="40" />
+          <entry key="JAVA" value="283" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="XML" value="47" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="7" />
-          <entry key="java" value="31527" />
+          <entry key="java" value="33792" />
           <entry key="txt" value="57" />
-          <entry key="xml" value="223" />
+          <entry key="xml" value="255" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="31527" />
+          <entry key="JAVA" value="33792" />
           <entry key="PLAIN_TEXT" value="64" />
-          <entry key="XML" value="223" />
+          <entry key="XML" value="255" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/openjdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Map.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="413" column="11" lean-forward="true" selection-start-line="413" selection-start-column="11" selection-end-line="413" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -106,6 +138,7 @@
       <find>Assert</find>
       <find>groupBy</find>
       <find>map</find>
+      <find>1</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -122,14 +155,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/aspect-weaver-sample/pom.xml" />
-        <option value="$PROJECT_DIR$/kafka_stream/pom.xml" />
-        <option value="$PROJECT_DIR$/core-java/src/main/java/dodo/learning/core/Child.java" />
-        <option value="$PROJECT_DIR$/core-java/pom.xml" />
-        <option value="$PROJECT_DIR$/core-java/src/test/java/dodo/learning/thread/ThreadTest.java" />
-        <option value="$PROJECT_DIR$/core-java/src/test/java/dodo/learning/thread/ProducerTest.java" />
-        <option value="$PROJECT_DIR$/core-java/src/test/java/dodo/learning/ds/StringTest.java" />
-        <option value="$PROJECT_DIR$/core-java/src/test/java/dodo/learning/thread/BigArrayThreadTest.java" />
         <option value="$PROJECT_DIR$/core-java/src/test/java/dodo/learning/thread/ConsumerProducerTest.java" />
         <option value="$PROJECT_DIR$/core-java/src/test/java/dodo/learning/thread/RestraurantTest.java" />
         <option value="$PROJECT_DIR$/core-java/src/test/java/dodo/learning/ds/ArrayTest.java" />
@@ -143,7 +168,6 @@
         <option value="$PROJECT_DIR$/concurrency/src/main/java/com/dodo/tutorials/CounterProblem.java" />
         <option value="$PROJECT_DIR$/functional/src/main/java/functional/binary_operator/BinaryOperatorDemo.java" />
         <option value="$PROJECT_DIR$/datastructure/src/main/java/com/dodo/tutorials/datastructure/map/MapMain.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/concurrency/src/main/java/com/dodo/tutorials/atomic/Main.java" />
         <option value="$PROJECT_DIR$/concurrency/src/main/java/com/dodo/tutorials/atomic/TestDemo.java" />
         <option value="$PROJECT_DIR$/concurrency/src/main/java/com/dodo/tutorials/executors/ScheduleExecutorMain.java" />
@@ -173,6 +197,15 @@
         <option value="$PROJECT_DIR$/functional/src/main/java/com/dodo/learning/practicemore/FunctionalDemo.java" />
         <option value="$PROJECT_DIR$/functional/src/main/java/com/dodo/learning/functional/sortmap/SortMapDemo.java" />
         <option value="$PROJECT_DIR$/practice/src/main/java/com/dodo/Main.java" />
+        <option value="$PROJECT_DIR$/ProductService/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/functional/src/main/java/com/dodo/learning/functional/sortmap/Solution.java" />
+        <option value="$PROJECT_DIR$/concurrency/src/main/java/com/dodo/tutorials/callable/CallableMain.java" />
+        <option value="$PROJECT_DIR$/concurrency/src/main/java/com/dodo/tutorials/sharing/Main.java" />
+        <option value="$PROJECT_DIR$/concurrency/src/main/java/com/dodo/tutorials/executors/ArrayMain.java" />
+        <option value="$PROJECT_DIR$/datastructure/src/main/java/com/dodo/tutorials/datastructure/array/ArrayUtils.java" />
+        <option value="$PROJECT_DIR$/search_sort/src/main/java/com/dodo/tutorials/array/ArrayProblem.java" />
+        <option value="$PROJECT_DIR$/datastructure/src/test/java/com/dodo/tutorials/datastructure/tree/BinarySearchTreeTest.java" />
       </list>
     </option>
   </component>
@@ -196,7 +229,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -204,43 +236,18 @@
               <item name="tutorials" type="b2602c69:ProjectViewProjectNode" />
               <item name="tutorials" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="tutorials" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tutorials" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tutorials" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tutorials" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tutorials" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tutorials" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tutorials" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tutorials" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="SearchEverywhereHistoryKey" value="call&#9;PSI&#9;JAVA://dodo.learning.thread.ConsumerProducerTest#testCallable&#10;Arrays&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Arrays.java&#10;List&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/List.java&#10;Queue&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/PriorityBlockingQueue.java&#10;ArrayBlo&#9;PSI&#9;JAVA://java.util.concurrent.ArrayBlockingQueue&#10;PriorityQ&#9;PSI&#9;JAVA://java.util.concurrent.PriorityBlockingQueue&#10;AbstractList&#9;PSI&#9;JAVA://java.util.AbstractList&#10;java.util.List&#9;PSI&#9;JAVA://java.util.List" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1605172360031" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1605761666367" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -266,13 +273,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="FlatMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dodo.learning.stream.FlatMap" />
-      <module name="functional" />
+  <component name="RunManager" selected="JUnit.BinarySearchTreeTest.testInsertAndInOrder">
+    <configuration name="ArrayMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dodo.tutorials.executors.ArrayMain" />
+      <module name="concurrency" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dodo.learning.stream.*" />
+          <option name="PATTERN" value="com.dodo.tutorials.executors.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -280,12 +287,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionalDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dodo.learning.practicemore.FunctionalDemo" />
-      <module name="functional" />
+    <configuration name="ArrayProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dodo.tutorials.array.ArrayProblem" />
+      <module name="search_sort" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dodo.learning.practicemore.*" />
+          <option name="PATTERN" value="com.dodo.tutorials.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CallableMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dodo.tutorials.callable.CallableMain" />
+      <module name="concurrency" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dodo.tutorials.callable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -306,46 +326,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumericStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dodo.learning.stream.NumericStream" />
-      <module name="functional" />
+    <configuration name="BinarySearchTreeTest.testInsertAndInOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="datastructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dodo.learning.stream.*" />
+          <option name="PATTERN" value="com.dodo.tutorials.datastructure.tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dodo.learning.functional.sortmap.SortMapDemo" />
-      <module name="functional" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dodo.learning.functional.sortmap.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="PACKAGE_NAME" value="com.dodo.tutorials.datastructure.tree" />
+      <option name="MAIN_CLASS_NAME" value="com.dodo.tutorials.datastructure.tree.BinarySearchTreeTest" />
+      <option name="METHOD_NAME" value="testInsertAndInOrder" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.NumericStream" />
-      <item itemvalue="Application.FunctionalDemo" />
-      <item itemvalue="Application.FlatMap" />
-      <item itemvalue="Application.SortMapDemo" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.ArrayMain" />
+      <item itemvalue="Application.CallableMain" />
+      <item itemvalue="Application.ArrayProblem" />
+      <item itemvalue="JUnit.BinarySearchTreeTest.testInsertAndInOrder" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BinarySearchTreeTest.testInsertAndInOrder" />
+        <item itemvalue="Application.ArrayProblem" />
+        <item itemvalue="Application.ArrayMain" />
+        <item itemvalue="Application.CallableMain" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.SortMapDemo" />
-        <item itemvalue="Application.FunctionalDemo" />
-        <item itemvalue="Application.FlatMap" />
-        <item itemvalue="Application.NumericStream" />
       </list>
     </recent_temporary>
   </component>
@@ -371,9 +381,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SortUtilTest_testInsertionSort - 2020.11.02 at 16h 32m 12s.xml">
-      <configuration name="SortUtilTest.testInsertionSort" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="SortUtilTest_testInsertionSort - 2020.11.02 at 16h 34m 18s.xml">
       <configuration name="SortUtilTest.testInsertionSort" configurationId="JUnit" />
     </history-entry>
@@ -401,13 +408,15 @@
     <history-entry file="SortUtilTest_testInsertionSort_2 - 2020.11.02 at 22h 18m 40s.xml">
       <configuration name="SortUtilTest.testInsertionSort_2" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="BinarySearchTreeTest_testInsertAndInOrder - 2020.11.18 at 23h 27m 56s.xml">
+      <configuration name="BinarySearchTreeTest.testInsertAndInOrder" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8795181" visible="true" weight="0.2746781" />
-      <window_info id="Structure" order="1" sideWeight="0.12048193" side_tool="true" visible="true" weight="0.2746781" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.9120482" visible="true" weight="0.30615166" />
+      <window_info id="Structure" order="1" sideWeight="0.08795181" side_tool="true" visible="true" weight="0.30615166" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -415,8 +424,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.17108434" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4313253" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28674698" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.17590362" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -470,12 +479,6 @@
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/datastructure/src/main/java/com/dodo/tutorials/datastructure/linkedlist/LinkedList.java</url>
-          <line>91</line>
-          <properties />
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/datastructure/src/test/java/com/dodo/tutorials/datastructure/linkedlist/CircularLinkedListTest.java</url>
           <line>13</line>
           <properties />
@@ -505,11 +508,48 @@
           <properties />
           <option name="timeStamp" value="21" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/concurrency/src/main/java/com/dodo/tutorials/executors/ArrayMain.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datastructure/src/test/java/com/dodo/tutorials/datastructure/tree/BinarySearchTreeTest.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>end != arr.length-1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>start != 0 &amp;&amp; end != arr.length-1 &amp;&amp; start == end</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(i%2==0 &amp;&amp; set.contains(i/2))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i/2</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i%2 == 0</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>arToSort[j]</expression-string>
         <language-id>JAVA</language-id>
@@ -530,279 +570,106 @@
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>root.getData().compareTo(minValue)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/openjdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/stream/Stream.java">
+    <entry file="file://$PROJECT_DIR$/practice/src/main/java/com/dodo/tutorials.java" />
+    <entry file="file://$PROJECT_DIR$/ProductService/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="978" column="7" lean-forward="true" selection-start-line="978" selection-start-column="7" selection-end-line="978" selection-end-column="7" />
+        <state relative-caret-position="180">
+          <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/openjdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/function/Function.java">
+    <entry file="file://$PROJECT_DIR$/hibernate-learning/src/test/resources/product.hbm.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="96" column="30" selection-start-line="96" selection-start-column="30" selection-end-line="96" selection-end-column="30" />
+        <state relative-caret-position="300">
+          <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/functional/src/main/java/com/dodo/learning/functional/collectors/MyCollector.java">
+    <entry file="file://$PROJECT_DIR$/hibernate-learning/src/test/resources/order.hbm.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="315">
+          <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/functional/src/main/java/com/dodo/learning/practicemore/bifunction/BiFunctionDemo.java">
+    <entry file="file://$PROJECT_DIR$/hibernate-learning/src/main/java/dodo/entity/school/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/openjdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/stream/Collectors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20670">
-          <caret line="1453" column="48" selection-start-line="1453" selection-start-column="48" selection-end-line="1453" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kafka-learning/src/main/java/com/example/dodo/kafka/ConsumerDemoWithAssignSeek.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kafka-learning/src/main/java/com/example/dodo/kafka/ProducerWithCallback.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kafka-learning/src/main/java/com/example/dodo/kafka/ProducerDemoWithKey.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kafka-learning/src/main/java/com/example/dodo/kafka/Producer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kafka-learning/src/main/java/com/example/dodo/kafka/ConsumerGroupDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kafka-learning/src/main/java/com/example/dodo/kafka/ConsumerDemoWithThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kafka-learning/src/main/java/com/example/dodo/kafka/ConsumerDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kafka_stream/src/main/java/com/example/dodo/kafka/stream/WordCountApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kafka_stream/src/main/java/com/example/dodo/kafka/stream/StreamStarterApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
+        <state relative-caret-position="90">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/functional/src/main/java/com/dodo/learning/listTomap/MapSortDemo.java">
+    <entry file="file://$PROJECT_DIR$/hibernate-learning/src/test/resources/hibernate.cfg.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core-java/src/test/java/dodo/learning/udemy/thread/ThreadTest.java">
+    <entry file="file://$PROJECT_DIR$/hibernate-learning/src/main/java/dodo/learning/dto/Department.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+        <state relative-caret-position="330">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core-java/src/main/java/dodo/learning/SuperClass.java">
+    <entry file="file://$PROJECT_DIR$/hibernate-learning/src/test/java/dodo/hrms/EmployeeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        <state relative-caret-position="1860">
+          <caret line="154" column="20" lean-forward="true" selection-start-line="154" selection-start-column="20" selection-end-line="154" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/functional/src/main/java/com/dodo/learning/practicemore/reduce/ReduceMain.java">
+    <entry file="file://$PROJECT_DIR$/hibernate-learning/src/test/java/dodo/hrms/EmployeeProjectTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="870">
-          <caret line="61" column="30" selection-start-line="61" selection-start-column="30" selection-end-line="61" selection-end-column="30" />
+        <state relative-caret-position="255">
+          <caret line="27" column="34" lean-forward="true" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/functional/src/main/java/com/dodo/learning/stream/StreamExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="37" column="27" lean-forward="true" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/functional/src/main/java/com/dodo/learning/functional/currying/CurryingDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/functional/src/main/java/com/dodo/learning/functional/consumer/ConsumerDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/functional/src/main/java/com/dodo/learning/functional/composition/CompositionDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/functional/src/main/java/com/dodo/learning/functional/collection_functional_way/Movie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/functional/src/main/java/com/dodo/learning/functional/bifunction/BiFunctionDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/openjdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/function/Consumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/functional/src/main/java/com/dodo/learning/functional/collectors/CollectorDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="18" column="59" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/functional/src/main/java/com/dodo/learning/functional/collectors/CustomCollectorDemo.java">
+    <entry file="file://$PROJECT_DIR$/hibernate-learning/src/main/java/dodo/learning/dao/EmployeeDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/functional/src/main/java/com/dodo/learning/functional/collectors/DownstreamCollectorDemo.java">
+    <entry file="file://$PROJECT_DIR$/hibernate-learning/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        <state relative-caret-position="390">
+          <caret line="26" column="38" lean-forward="true" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hibernate-learning/src/main/java/dodo/util/HibernateUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="33" column="13" lean-forward="true" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-boot-servlet-filter-example/src/main/java/com/boraji/tutorial/springboot/servlet/MyServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="19" column="11" lean-forward="true" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        <state relative-caret-position="285">
+          <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-servlet-filter-example/src/main/java/com/boraji/tutorial/springboot/SpringBootApp.java">
+    <entry file="file://$PROJECT_DIR$/functional/src/main/resources/Books.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="35" column="3" lean-forward="true" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-servlet-filter-example/src/main/java/com/boraji/tutorial/springboot/listener/MyServletContextListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/functional/src/main/java/com/dodo/learning/groupby/Grouping3Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/functional/src/main/java/com/dodo/learning/listTomap/ListToMapDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/functional/src/main/java/com/dodo/learning/functional/StringFunctionalTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/functional/src/main/java/com/dodo/learning/functional/StringFunctionalInteface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        <state relative-caret-position="270">
+          <caret line="18" column="16" selection-end-line="23" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/functional/src/main/java/com/dodo/learning/functional/splititerator/BookSplitIterator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/functional/src/main/java/com/dodo/learning/functional/splititerator/CharacteristicDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -813,72 +680,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/functional/src/main/java/com/dodo/learning/stream/ForkJoinDemo.java">
+    <entry file="file://$PROJECT_DIR$/functional/src/main/java/com/dodo/learning/functional/CollectorsDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/functional/src/main/java/com/dodo/learning/stream/ForkJoinDemo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/functional/src/main/java/com/dodo/learning/stream/NumericStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/functional/src/main/java/com/dodo/learning/stream/ReduceOperation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/functional/src/main/java/com/dodo/learning/practicemore/FunctionalDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="41" column="70" selection-start-line="41" selection-start-column="70" selection-end-line="41" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/functional/src/main/java/com/dodo/learning/stream/FlatMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/functional/src/main/java/com/dodo/learning/functional/collection_functional_way/MapDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-227">
-          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/functional/src/main/java/com/dodo/learning/functional/sortmap/SortMapDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/functional/src/main/java/com/dodo/learning/groupby/GroupByDemo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="29" column="46" lean-forward="true" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
+        <state>
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -887,37 +692,247 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/functional/src/main/java/com/dodo/learning/groupby/GroupByDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="60">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#4096#4097#0" expanded="true" />
-            <element signature="e#4160#4161#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practice/src/main/java/com/dodo/Main.java">
+    <entry file="file://$PROJECT_DIR$/functional/src/main/java/com/dodo/learning/groupby/Grouping3Demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
+        <state>
+          <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functional/src/main/java/com/dodo/learning/groupby/GroupByDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="29" column="46" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functional/src/main/java/com/dodo/learning/functional/sortmap/SortMapDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/concurrency/src/main/java/com/dodo/tutorials/sharing/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/concurrency/src/main/java/com/dodo/tutorials/callable/CallableMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practice/src/main/java/com/dodo/tutorials.java">
+    <entry file="file://$PROJECT_DIR$/search_sort/src/main/java/com/dodo/tutorials/sort/SortUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search_sort/src/main/java/com/dodo/tutorials/search/SearchUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructure/src/main/java/com/dodo/tutorials/datastructure/array/ArrayUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functional/src/main/java/com/dodo/learning/functional/sortmap/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/openjdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/stream/IntStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="828" column="20" selection-start-line="828" selection-start-column="20" selection-end-line="828" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functional/src/main/java/com/dodo/learning/functional/collection_functional_way/ArrayDemo2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/concurrency/src/main/java/com/dodo/tutorials/executors/ArrayMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/concurrency/src/main/java/com/dodo/tutorials/executors/ExecutorMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functional/src/main/java/com/dodo/learning/functional/collectors/CollectorDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search_sort/src/main/java/com/dodo/tutorials/array/ArrayProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="44" column="30" selection-start-line="44" selection-start-column="30" selection-end-line="44" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/openjdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2910">
+          <caret line="220" column="17" selection-start-line="220" selection-start-column="17" selection-end-line="220" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/openjdk-11.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Map.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="413" column="11" lean-forward="true" selection-start-line="413" selection-start-column="11" selection-end-line="413" selection-end-column="11" />
+        <state relative-caret-position="1237">
+          <caret line="413" column="11" selection-start-line="413" selection-start-column="11" selection-end-line="413" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mqconsumer/src/main/java/com/example/demo/consumer/mq/MyQueueBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mqconsumer/src/main/java/com/example/demo/consumer/mq/RabbitMqConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-101">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mqconsumer/src/main/java/com/example/demo/consumer/mq/RabbitMqMessageListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mqconsumer/src/main/java/com/example/demo/consumer/DemoConsumerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructure/src/main/java/com/dodo/tutorials/datastructure/linkedlist/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1110">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructure/src/test/java/com/dodo/tutorials/datastructure/tree/BinarySearchTreeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="38" column="39" lean-forward="true" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructure/src/main/java/com/dodo/tutorials/datastructure/tree/BinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructure/src/main/java/com/dodo/tutorials/datastructure/stack/ArrayBasedStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructure/src/main/java/com/dodo/tutorials/datastructure/queue/ArrayQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-206">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructure/src/main/java/com/dodo/tutorials/datastructure/map/MapMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructure/src/main/java/com/dodo/tutorials/datastructure/linkedlist/CircularLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructure/src/main/java/com/dodo/tutorials/datastructure/linkedlist/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructure/src/main/java/com/dodo/tutorials/datastructure/stack/Element.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructure/src/main/java/com/dodo/tutorials/datastructure/stack/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastructure/src/main/java/com/dodo/tutorials/datastructure/linkedlist/DoubleLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -973,11 +988,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>core-java</last-edited>
+          <last-edited>hibernate-learning</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
