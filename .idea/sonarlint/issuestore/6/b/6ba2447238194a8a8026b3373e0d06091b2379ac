@@ -1,0 +1,12 @@
+
+f	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Ø¸æ
+f	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“„ú
+\
+java:S1854
+"?Remove this useless assignment to local variable "hash_suresh".(“„ú8İşšŸ¡1
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Â¤İŸıÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(“ÁÅ‘úÿÿÿÿ8×„ú¡1
+M
+java:S1481
+"0Remove this unused "hash_suresh" local variable.(“„ú8ßşšŸ¡1

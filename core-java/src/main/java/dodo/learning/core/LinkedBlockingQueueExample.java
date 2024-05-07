@@ -12,7 +12,6 @@ public class LinkedBlockingQueueExample {
         lbq.add("Naresh");
         lbq.add("Suresh");
         lbq.add("Dinesh");
-
         System.out.println(lbq.take());
 
         BlockingQueue<String> abq = new ArrayBlockingQueue<>(10);
@@ -23,4 +22,14 @@ public class LinkedBlockingQueueExample {
 
 
     }
+}
+
+class TestThread implements Runnable {
+    @Override
+    public void run() {
+        System.out.println();
+    }
+
+
+
 }

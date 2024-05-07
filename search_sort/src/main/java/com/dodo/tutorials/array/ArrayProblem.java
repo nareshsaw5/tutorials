@@ -24,6 +24,7 @@ public class ArrayProblem {
         }
         System.out.println("------------");
         int[] zeroArrays = new int[] { 1, 0, 1, 0 };
+        zeroArrays = new int[] { 1,0,2,3,0,4,5,0 };
         duplicateZeros(zeroArrays);
         System.out.println("----------");
 
@@ -143,6 +144,8 @@ public class ArrayProblem {
                 list.add(arr[i]);
             }
         }
+        list.sort( (c1, c2) -> c1 > c2 ? c1: c2 );
+
     }
 
     /**

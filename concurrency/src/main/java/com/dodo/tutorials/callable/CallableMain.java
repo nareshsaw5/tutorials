@@ -9,25 +9,13 @@ public class CallableMain {
 
     public static void main(String[] args) throws ExecutionException, InterruptedException {
 
-        ExecutorService service = Executors.newFixedThreadPool(100);
-        Counter counter = new Counter();
+        ExecutorService service = Executors.newFixedThreadPool(1);
 
-        List<Callable<String>> list = new ArrayList<>();
-
-        for (int i = 0; i < 1000; i++) {
-            list.add(new TestCallable(counter));
-        }
-
-        service.invokeAll(list);
-
-        for (int i = 0; i < 1000; i++) {
-
-            service.submit( () -> counter.increment());
-
-        }
+        Future<String> callableThread = service.submit(new MyCallable());
+        System.out.println(callableThread.get());
+        service.execute(new MyRunnable());
 
         service.shutdown();
-        System.out.println(counter.getCount());
     }
 
 
@@ -44,7 +32,7 @@ class TestCallable implements Callable<String>{
     @Override public String call() {
         counter.increment();
         String name = Thread.currentThread().getName();
-        System.out.println(name);
+        System.out.println(name + " "+counter.getCount());
         return name;
     }
 }
@@ -59,5 +47,22 @@ class Counter {
 
     public int getCount() {
         return count;
+    }
+}
+
+
+class MyRunnable implements Runnable {
+
+    @Override
+    public void run() {
+        System.out.println("Running thread "+Thread.currentThread().getName());
+    }
+}
+
+class MyCallable implements Callable {
+
+    @Override
+    public String call() throws Exception {
+        return "Callable thread "+Thread.currentThread().getName();
     }
 }

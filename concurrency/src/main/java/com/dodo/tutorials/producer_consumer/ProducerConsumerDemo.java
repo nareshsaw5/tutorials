@@ -10,7 +10,7 @@ import java.util.concurrent.TimeUnit;
 public class ProducerConsumerDemo {
 
     public static void main(String[] args) throws InterruptedException {
-        Queue<Integer> queue = new ArrayBlockingQueue<>(1);
+        Queue<Integer> queue = new ArrayBlockingQueue<>(5);
         Random random = new Random();
 
         ExecutorService service = Executors.newFixedThreadPool(10);

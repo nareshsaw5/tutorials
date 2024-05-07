@@ -10,7 +10,7 @@ public class Foo {
 
     {
         count =  new Count();
-        System.out.println("instance intializer block " + count.getCounter());
+        System.out.println("instance initializer block " + count.getCounter());
     }
 
     Foo() {
@@ -37,5 +37,11 @@ public class Foo {
             return counter;
         }
     }
+
+    public static void main(String[] args) {
+        Foo foo = new Foo();
+    }
+
+
 
 }

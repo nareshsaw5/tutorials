@@ -66,6 +66,7 @@ public class DeadlockMain {
         public void takeRoadA(){
             synchronized (roadA){
                 System.out.println("Got lock of road A by " +Thread.currentThread().getName());
+                System.out.println("Waiting for road B");
                 synchronized (roadB){
                     System.out.println("Passing through Road A");
                 }
@@ -75,6 +76,7 @@ public class DeadlockMain {
         public void takeRoadB(){
             synchronized (roadB){
                 System.out.println("Got lock of road B by "+Thread.currentThread().getName());
+                System.out.println("Waiting for road A");
                 synchronized (roadA){
                     System.out.println("Passing through Road B");
                 }

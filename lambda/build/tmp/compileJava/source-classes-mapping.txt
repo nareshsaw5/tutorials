@@ -1,0 +1,100 @@
+example/stream_terminal/StreamMappingExample.java
+ example.stream_terminal.StreamMappingExample
+example/functionalnterfaces/BiFunctionExample.java
+ example.functionalnterfaces.BiFunctionExample
+example/ComparatorLambdaExample.java
+ example.ComparatorLambdaExample
+ example.ComparatorLambdaExample$1
+example/stream/StudentFindAnyFirstExample.java
+ example.stream.StudentFindAnyFirstExample
+example/functionalnterfaces/PredicateExample.java
+ example.functionalnterfaces.PredicateExample
+example/functionalnterfaces/SupplierExample.java
+ example.functionalnterfaces.SupplierExample
+example/functionalnterfaces/BiConsumerExample.java
+ example.functionalnterfaces.BiConsumerExample
+example/parallel_stream/ParallelStreamExample.java
+ example.parallel_stream.ParallelStreamExample
+example/data/Bike.java
+ example.data.Bike
+example/data/constructorreference/ConstructorReferenceExample.java
+ example.data.constructorreference.ConstructorReferenceExample
+example/numericstream/NumericStreamMapExample.java
+ example.numericstream.NumericStreamMapExample
+example/data/LambdaVariableExample.java
+ example.data.LambdaVariableExample
+example/stream_terminal/StreamCountingExample.java
+ example.stream_terminal.StreamCountingExample
+example/stream/StreamsMatchExample.java
+ example.stream.StreamsMatchExample
+example/data/ConsumerMethodReferenceExample.java
+ example.data.ConsumerMethodReferenceExample
+example/functionalnterfaces/StudentFunctionExample.java
+ example.functionalnterfaces.StudentFunctionExample
+example/stream/StreamOfGenerateIterateExample.java
+ example.stream.StreamOfGenerateIterateExample
+example/stream/StreamLimitAndSkipExample.java
+ example.stream.StreamLimitAndSkipExample
+example/functionalnterfaces/PredicateAndConsumerExample.java
+ example.functionalnterfaces.PredicateAndConsumerExample
+example/stream/StreamFlatMapExample.java
+ example.stream.StreamFlatMapExample
+example/data/StudentDataBase.java
+ example.data.StudentDataBase
+example/data/Student.java
+ example.data.Student
+example/stream/StreamFilterExample.java
+ example.stream.StreamFilterExample
+example/data/MethodReferenceExample.java
+ example.data.MethodReferenceExample
+example/functionalnterfaces/ConsumerExample.java
+ example.functionalnterfaces.ConsumerExample
+example/stream/StreamComparatorExample.java
+ example.stream.StreamComparatorExample
+example/defaults/DefaultMethodExample.java
+ example.defaults.DefaultMethodExample
+example/functionalnterfaces/FunctionExample.java
+ example.functionalnterfaces.FunctionExample
+example/stream_terminal/StreamsSumAvgExample.java
+ example.stream_terminal.StreamsSumAvgExample
+example/stream_terminal/StreamJoningExample.java
+ example.stream_terminal.StreamJoningExample
+example/stream_terminal/StreamPartioningByExample.java
+ example.stream_terminal.StreamPartioningByExample
+example/stream/StreamMapExample.java
+ example.stream.StreamMapExample
+example/stream/StreamExample.java
+ example.stream.StreamExample
+example/RunnableLambdaExample.java
+ example.RunnableLambdaExample
+ example.RunnableLambdaExample$1
+example/stream/StreamReduceExample.java
+ example.stream.StreamReduceExample
+example/functionalnterfaces/UnaryOperatorExample.java
+ example.functionalnterfaces.UnaryOperatorExample
+example/optional/OptionalExample.java
+ example.optional.OptionalExample
+example/numericstream/NumericStreamExample.java
+ example.numericstream.NumericStreamExample
+example/defaults/DefaultMethodExample2.java
+ example.defaults.DefaultMethodExample2
+example/functionalnterfaces/BiPredicateExample.java
+ example.functionalnterfaces.BiPredicateExample
+example/stream/StreamMinMaxExample.java
+ example.stream.StreamMinMaxExample
+example/functionalnterfaces/BinaryOperatorExample.java
+ example.functionalnterfaces.BinaryOperatorExample
+example/stream_terminal/StreamMinByMaxByExample.java
+ example.stream_terminal.StreamMinByMaxByExample
+example/numericstream/NumericStreamBoxingUnboxingExample.java
+ example.numericstream.NumericStreamBoxingUnboxingExample
+example/stream_terminal/StreamGroupingByExample.java
+ example.stream_terminal.StreamGroupingByExample
+example/defaults/MultiplierImpl.java
+ example.defaults.MultiplierImpl
+example/defaults/Multiplier.java
+ example.defaults.Multiplier
+example/defaults/MultiplierClient.java
+ example.defaults.MultiplierClient
+example/generic/Utils.java
+ example.generic.Utils

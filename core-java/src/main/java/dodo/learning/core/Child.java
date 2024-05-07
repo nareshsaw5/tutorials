@@ -13,7 +13,7 @@ public class Child extends Parent {
     private int count;
 
     static {
-        System.out.println("Child staitic iniitizer");
+        System.out.println("Child static initializer");
     }
 
     {
@@ -34,6 +34,8 @@ public class Child extends Parent {
     }
 
     public static void main(String[] args) throws ClassNotFoundException, IOException {
+//        Child child = new Child();
+        Child child1 = new Child("Naresh");
         Queue<Integer> q = new ArrayDeque<>();
         for(int i =0; i < 10; i++){
             q.add(i);
